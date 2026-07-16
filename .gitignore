@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+outputs/*.csv
+outputs/*.xlsx
+outputs/logs/
+.streamlit/secrets.toml
+*.egg-info/
+.DS_Store
