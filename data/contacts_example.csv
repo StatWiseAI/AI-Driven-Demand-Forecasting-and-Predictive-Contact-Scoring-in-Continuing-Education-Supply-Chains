@@ -1,0 +1,11 @@
+contact_id,name,email,job_title,industry,location,last_booking_date,booking_count_12m,avg_booking_price
+C001,Anna Müller,anna.mueller@example.com,HR Manager,Human Resources,Frankfurt,2024-09-10,3,720
+C002,Thomas Becker,t.becker@example.com,Team Lead,IT & Software,Munich,2024-11-22,5,950
+C003,Sara Klein,s.klein@example.com,Management Consultant,Management Consulting,Berlin,2024-06-01,1,1100
+C004,Jan Hoffmann,j.hoffmann@example.com,Project Manager,Automotive,Stuttgart,2023-12-15,2,800
+C005,Lena Braun,lena.braun@example.com,Trainer,Education & Training,Hamburg,2024-10-30,4,650
+C006,Mark Weber,m.weber@example.com,CEO,Finance,Frankfurt,2024-01-20,1,1400
+C007,Julia Schneider,j.schneider@example.com,HR Business Partner,Human Resources,Cologne,2024-08-05,3,880
+C008,Felix Krause,f.krause@example.com,Operations Manager,Logistics,Dortmund,2023-09-10,0,0
+C009,Nina Fischer,n.fischer@example.com,L&D Manager,Retail,Berlin,2024-12-01,6,700
+C010,Paul Richter,p.richter@example.com,Supply Chain Director,Manufacturing,Hamburg,2024-07-18,2,950

@@ -1,0 +1,35 @@
+[
+  {
+    "topic": "HR Management",
+    "format": "Seminar",
+    "price": 890,
+    "audience": ["HR Manager", "HR Business Partner", "L&D Manager"],
+    "location": "Frankfurt",
+    "date": "2025-09-15",
+    "duration_days": 2,
+    "online": false,
+    "description": "Two-day seminar on modern HR management, people analytics, and talent development."
+  },
+  {
+    "topic": "Supply Chain Digitalisation",
+    "format": "Congress",
+    "price": 1290,
+    "audience": ["Supply Chain Manager", "Logistics Director", "Operations Manager"],
+    "location": "Munich",
+    "date": "2025-10-22",
+    "duration_days": 1,
+    "online": false,
+    "description": "Annual congress on digital transformation in supply chain and logistics."
+  },
+  {
+    "topic": "Project Management Fundamentals",
+    "format": "E-Learning",
+    "price": 299,
+    "audience": ["Project Manager", "Team Lead", "Business Analyst"],
+    "location": "",
+    "date": "2025-11-01",
+    "duration_days": 30,
+    "online": true,
+    "description": "Self-paced e-learning programme covering agile and traditional project management methods."
+  }
+]

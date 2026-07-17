@@ -1,0 +1,2554 @@
+contact_id,event_topic,event_format,event_price,booked
+C0001,Supply Chain,Congress,650,0
+C0001,SAP S/4HANA,Seminar,1100,0
+C0001,HR Management,Seminar,790,0
+C0001,SAP S/4HANA,Seminar,1490,0
+C0001,SAP S/4HANA,Workshop,790,0
+C0001,Logistics,E-Learning,299,1
+C0002,Project Management,Congress,990,0
+C0002,Leadership,Workshop,490,0
+C0002,IT & Digitalisation,E-Learning,299,0
+C0002,SAP S/4HANA,Seminar,1100,1
+C0002,SAP S/4HANA,E-Learning,990,0
+C0002,Leadership,Seminar,790,0
+C0002,Leadership,Congress,490,0
+C0002,Finance,Workshop,990,0
+C0002,IT & Digitalisation,E-Learning,790,1
+C0002,Leadership,Congress,1490,0
+C0003,Finance,Congress,990,1
+C0003,Supply Chain,Seminar,990,1
+C0003,Finance,Seminar,790,0
+C0003,Supply Chain,Workshop,1100,0
+C0003,Project Management,E-Learning,650,1
+C0004,Logistics,Workshop,1100,0
+C0004,Supply Chain,Congress,1490,0
+C0004,Leadership,Seminar,490,0
+C0004,Project Management,Workshop,490,0
+C0004,Marketing,Workshop,1490,0
+C0004,SAP S/4HANA,Seminar,490,0
+C0004,IT & Digitalisation,Seminar,890,1
+C0004,Project Management,Workshop,299,0
+C0004,SAP S/4HANA,Congress,1490,0
+C0004,Finance,Congress,650,1
+C0004,Project Management,Seminar,990,0
+C0005,Finance,Congress,299,0
+C0005,Logistics,Seminar,490,0
+C0005,Leadership,Congress,650,1
+C0005,SAP S/4HANA,Congress,890,0
+C0005,Supply Chain,Congress,890,0
+C0005,IT & Digitalisation,Workshop,1490,0
+C0005,Leadership,Congress,790,0
+C0005,IT & Digitalisation,Seminar,1490,0
+C0005,Logistics,Congress,299,0
+C0005,HR Management,Congress,490,0
+C0005,IT & Digitalisation,Seminar,1490,0
+C0006,SAP S/4HANA,Congress,1290,0
+C0006,Legal & Compliance,Workshop,790,0
+C0006,Leadership,Workshop,990,0
+C0007,Leadership,Seminar,1100,1
+C0007,Leadership,Congress,790,0
+C0007,SAP S/4HANA,Workshop,650,0
+C0007,Project Management,E-Learning,1290,0
+C0007,Leadership,Workshop,1490,0
+C0008,Leadership,Congress,650,0
+C0008,Legal & Compliance,Workshop,790,0
+C0008,HR Management,Congress,1100,0
+C0008,Marketing,E-Learning,1290,0
+C0008,Marketing,Workshop,650,0
+C0008,Finance,Congress,299,0
+C0008,IT & Digitalisation,Seminar,299,0
+C0009,HR Management,Seminar,650,0
+C0009,Logistics,Seminar,790,0
+C0009,Leadership,Congress,299,0
+C0009,Marketing,E-Learning,890,0
+C0009,IT & Digitalisation,Congress,890,1
+C0009,Project Management,E-Learning,1290,0
+C0009,Leadership,Seminar,1290,0
+C0009,Leadership,Congress,1490,0
+C0010,Supply Chain,E-Learning,890,1
+C0010,Legal & Compliance,E-Learning,1490,0
+C0010,SAP S/4HANA,E-Learning,490,0
+C0010,Finance,Seminar,490,0
+C0010,Finance,E-Learning,790,0
+C0010,Supply Chain,E-Learning,1490,0
+C0010,Finance,Seminar,490,0
+C0011,IT & Digitalisation,Congress,890,0
+C0011,Legal & Compliance,Workshop,1490,0
+C0011,Leadership,Seminar,650,0
+C0011,IT & Digitalisation,Congress,1100,1
+C0011,HR Management,E-Learning,990,0
+C0011,IT & Digitalisation,Congress,790,0
+C0011,IT & Digitalisation,Workshop,650,0
+C0011,Project Management,Congress,1100,0
+C0011,Project Management,E-Learning,1100,0
+C0011,Finance,Congress,490,0
+C0011,HR Management,Workshop,790,1
+C0012,Supply Chain,Congress,299,0
+C0012,Marketing,E-Learning,890,0
+C0013,SAP S/4HANA,E-Learning,299,1
+C0013,Finance,Congress,890,0
+C0013,Leadership,Workshop,990,1
+C0013,Marketing,Seminar,1100,0
+C0013,Finance,Seminar,1100,0
+C0013,SAP S/4HANA,Congress,990,0
+C0015,Marketing,E-Learning,1100,0
+C0015,SAP S/4HANA,Congress,790,0
+C0015,Marketing,Congress,890,0
+C0016,Finance,Congress,1100,0
+C0016,Legal & Compliance,Workshop,1290,0
+C0016,SAP S/4HANA,Workshop,650,0
+C0016,Finance,E-Learning,490,1
+C0016,Finance,Congress,790,0
+C0016,HR Management,Seminar,790,0
+C0017,Marketing,Congress,1100,0
+C0018,HR Management,Seminar,1100,1
+C0018,Project Management,Workshop,299,0
+C0018,Leadership,Workshop,650,0
+C0018,SAP S/4HANA,E-Learning,1290,0
+C0018,SAP S/4HANA,Workshop,650,0
+C0018,Legal & Compliance,E-Learning,790,0
+C0018,SAP S/4HANA,Workshop,790,0
+C0018,Legal & Compliance,Seminar,890,0
+C0021,Project Management,Congress,490,0
+C0021,Marketing,E-Learning,1490,1
+C0021,Marketing,Seminar,790,0
+C0021,Marketing,Seminar,1100,0
+C0021,HR Management,E-Learning,890,1
+C0021,Marketing,Congress,1290,0
+C0021,Finance,Workshop,1290,0
+C0021,Marketing,E-Learning,1100,0
+C0022,Marketing,Seminar,490,0
+C0022,Project Management,Workshop,650,0
+C0022,Finance,Workshop,990,0
+C0022,Legal & Compliance,E-Learning,990,0
+C0022,Finance,Workshop,890,0
+C0022,Legal & Compliance,Seminar,1490,0
+C0022,IT & Digitalisation,Congress,490,0
+C0022,HR Management,Congress,790,0
+C0022,Logistics,Congress,790,0
+C0023,Legal & Compliance,E-Learning,990,0
+C0024,Project Management,E-Learning,490,0
+C0024,Finance,Workshop,1100,1
+C0024,Leadership,Congress,490,0
+C0024,Logistics,Seminar,299,0
+C0025,Leadership,E-Learning,299,1
+C0025,Legal & Compliance,Seminar,1100,0
+C0025,Legal & Compliance,Congress,1100,0
+C0025,SAP S/4HANA,E-Learning,1490,0
+C0025,Legal & Compliance,Workshop,890,0
+C0026,Legal & Compliance,Congress,1290,0
+C0026,IT & Digitalisation,Seminar,1290,0
+C0026,Project Management,Workshop,790,0
+C0026,Finance,E-Learning,890,0
+C0026,SAP S/4HANA,Seminar,1490,0
+C0026,Leadership,Congress,1100,0
+C0026,SAP S/4HANA,Congress,1290,0
+C0026,Legal & Compliance,Seminar,490,0
+C0026,Supply Chain,Workshop,790,0
+C0027,SAP S/4HANA,E-Learning,1100,0
+C0027,IT & Digitalisation,Workshop,890,0
+C0027,Finance,Congress,490,0
+C0027,IT & Digitalisation,Seminar,1490,0
+C0027,Supply Chain,Congress,1290,0
+C0027,Logistics,E-Learning,490,0
+C0027,Finance,Congress,990,0
+C0027,Finance,Seminar,1490,0
+C0027,Finance,Seminar,299,0
+C0027,Project Management,Workshop,490,0
+C0028,Legal & Compliance,Workshop,990,0
+C0028,HR Management,E-Learning,1290,0
+C0028,Leadership,Workshop,1290,0
+C0029,Project Management,E-Learning,490,0
+C0029,Leadership,Workshop,790,0
+C0029,Legal & Compliance,Workshop,890,0
+C0029,Finance,Seminar,490,1
+C0029,Supply Chain,E-Learning,490,0
+C0029,Supply Chain,Congress,1490,0
+C0030,Legal & Compliance,Workshop,890,0
+C0030,Supply Chain,E-Learning,890,0
+C0031,Logistics,Congress,1100,0
+C0031,SAP S/4HANA,Congress,650,0
+C0031,Project Management,Seminar,299,0
+C0031,Finance,E-Learning,1290,0
+C0031,Legal & Compliance,E-Learning,1100,0
+C0031,SAP S/4HANA,Workshop,1290,0
+C0031,Logistics,Seminar,1100,0
+C0031,Logistics,E-Learning,299,0
+C0032,Finance,Seminar,650,0
+C0032,SAP S/4HANA,Workshop,890,0
+C0033,Leadership,Workshop,990,0
+C0033,IT & Digitalisation,E-Learning,490,0
+C0033,IT & Digitalisation,Workshop,1290,0
+C0033,Marketing,Seminar,1290,0
+C0033,IT & Digitalisation,E-Learning,990,0
+C0033,Marketing,Seminar,1490,0
+C0033,Marketing,Seminar,790,0
+C0034,HR Management,Congress,890,0
+C0034,Finance,Workshop,1290,1
+C0034,HR Management,Congress,650,0
+C0034,SAP S/4HANA,Seminar,1490,0
+C0034,Leadership,Congress,490,0
+C0034,Leadership,Congress,1290,0
+C0034,SAP S/4HANA,E-Learning,1100,0
+C0034,Legal & Compliance,Congress,1290,0
+C0036,IT & Digitalisation,E-Learning,299,0
+C0036,Finance,Workshop,650,0
+C0036,SAP S/4HANA,Workshop,990,0
+C0036,SAP S/4HANA,Workshop,1290,0
+C0038,IT & Digitalisation,Workshop,1100,0
+C0038,Project Management,Workshop,299,0
+C0038,SAP S/4HANA,E-Learning,490,0
+C0038,Leadership,Workshop,299,0
+C0038,Marketing,Congress,490,0
+C0038,Finance,E-Learning,1100,0
+C0038,IT & Digitalisation,Workshop,990,0
+C0038,SAP S/4HANA,Seminar,490,0
+C0038,Finance,Congress,490,0
+C0038,Leadership,Seminar,1290,0
+C0038,Finance,Seminar,299,0
+C0040,Supply Chain,Workshop,650,0
+C0040,Project Management,Seminar,1100,0
+C0040,Legal & Compliance,Congress,790,0
+C0040,Finance,Workshop,890,0
+C0042,Logistics,E-Learning,1100,0
+C0042,Legal & Compliance,E-Learning,790,0
+C0042,Legal & Compliance,Seminar,790,0
+C0042,Logistics,E-Learning,890,0
+C0042,HR Management,Workshop,890,1
+C0042,Logistics,Seminar,1290,0
+C0042,Supply Chain,E-Learning,790,0
+C0042,Logistics,E-Learning,650,0
+C0042,HR Management,E-Learning,1290,0
+C0042,Logistics,E-Learning,650,0
+C0042,Finance,E-Learning,1100,0
+C0043,SAP S/4HANA,E-Learning,650,0
+C0043,Legal & Compliance,E-Learning,990,0
+C0043,Legal & Compliance,Seminar,650,0
+C0043,Marketing,E-Learning,490,0
+C0044,Legal & Compliance,E-Learning,890,0
+C0044,IT & Digitalisation,Seminar,790,0
+C0044,HR Management,E-Learning,790,0
+C0044,Legal & Compliance,E-Learning,1100,1
+C0044,Project Management,Seminar,299,0
+C0044,Legal & Compliance,Seminar,490,0
+C0044,SAP S/4HANA,Congress,1100,0
+C0044,IT & Digitalisation,Workshop,650,0
+C0044,Leadership,Workshop,1100,0
+C0046,IT & Digitalisation,Seminar,990,0
+C0046,HR Management,Workshop,890,0
+C0046,Leadership,Workshop,490,0
+C0046,Logistics,Seminar,299,0
+C0046,Supply Chain,Congress,790,0
+C0046,SAP S/4HANA,Congress,790,0
+C0046,IT & Digitalisation,Congress,299,0
+C0047,Project Management,Seminar,299,0
+C0047,HR Management,E-Learning,790,0
+C0047,HR Management,Congress,890,0
+C0047,Project Management,Workshop,1490,0
+C0047,Leadership,Workshop,1290,0
+C0047,SAP S/4HANA,Seminar,1290,0
+C0047,Logistics,Seminar,1490,0
+C0047,Legal & Compliance,Seminar,299,0
+C0047,Marketing,Workshop,490,0
+C0047,Legal & Compliance,Seminar,490,1
+C0047,Logistics,Congress,490,0
+C0048,Marketing,E-Learning,1290,0
+C0048,Leadership,Seminar,1490,0
+C0048,Marketing,Workshop,790,0
+C0048,IT & Digitalisation,Workshop,1100,0
+C0048,Leadership,E-Learning,1100,0
+C0050,Leadership,Seminar,1100,1
+C0050,IT & Digitalisation,Congress,1490,0
+C0050,Logistics,E-Learning,490,0
+C0051,Finance,E-Learning,990,0
+C0051,Logistics,Congress,650,0
+C0051,Supply Chain,Seminar,990,0
+C0051,Leadership,E-Learning,790,0
+C0052,Logistics,E-Learning,299,0
+C0052,Finance,E-Learning,990,0
+C0052,HR Management,Congress,650,0
+C0053,Leadership,Congress,1100,0
+C0053,Legal & Compliance,E-Learning,650,0
+C0054,HR Management,Congress,650,0
+C0055,Marketing,Workshop,1290,0
+C0055,Finance,Congress,1490,0
+C0056,Finance,Workshop,1490,0
+C0056,HR Management,Congress,1100,0
+C0056,HR Management,Congress,890,0
+C0056,Project Management,E-Learning,890,1
+C0056,Leadership,Seminar,1290,0
+C0056,Project Management,Congress,1100,0
+C0056,SAP S/4HANA,E-Learning,490,1
+C0056,HR Management,Workshop,299,0
+C0056,Leadership,E-Learning,1100,0
+C0056,Marketing,E-Learning,490,0
+C0056,HR Management,E-Learning,650,1
+C0057,Leadership,Congress,1100,0
+C0057,SAP S/4HANA,Seminar,1100,0
+C0057,IT & Digitalisation,Congress,990,0
+C0057,Leadership,Seminar,1490,0
+C0057,IT & Digitalisation,E-Learning,650,0
+C0057,Leadership,Congress,890,0
+C0057,Project Management,Congress,490,0
+C0057,Legal & Compliance,Workshop,1290,0
+C0058,Leadership,Workshop,1290,0
+C0058,Finance,Seminar,990,1
+C0059,HR Management,Seminar,990,1
+C0059,Leadership,Seminar,1490,1
+C0059,Legal & Compliance,Seminar,1290,0
+C0059,IT & Digitalisation,Workshop,1490,0
+C0059,HR Management,Workshop,490,0
+C0059,Leadership,Congress,299,1
+C0059,Legal & Compliance,Workshop,1490,0
+C0059,IT & Digitalisation,E-Learning,890,0
+C0059,Marketing,E-Learning,299,0
+C0059,Leadership,E-Learning,490,0
+C0059,Finance,E-Learning,650,0
+C0060,IT & Digitalisation,E-Learning,1100,0
+C0060,Logistics,Seminar,890,0
+C0060,IT & Digitalisation,Congress,1490,0
+C0060,Marketing,E-Learning,299,1
+C0060,Finance,Congress,790,0
+C0060,Legal & Compliance,Congress,790,0
+C0060,Project Management,Seminar,890,0
+C0060,SAP S/4HANA,Seminar,990,0
+C0060,Logistics,Workshop,650,0
+C0061,Legal & Compliance,Seminar,1100,0
+C0061,Supply Chain,Workshop,890,0
+C0061,Supply Chain,Congress,890,0
+C0061,Supply Chain,E-Learning,1290,0
+C0061,Finance,Workshop,1490,0
+C0061,Project Management,Congress,650,0
+C0064,Finance,Workshop,1490,0
+C0064,Marketing,Seminar,790,0
+C0067,IT & Digitalisation,Congress,299,0
+C0067,Leadership,E-Learning,650,0
+C0067,HR Management,E-Learning,1290,1
+C0067,Legal & Compliance,Workshop,299,1
+C0067,HR Management,E-Learning,790,1
+C0067,SAP S/4HANA,Workshop,490,1
+C0067,Supply Chain,E-Learning,490,0
+C0069,Logistics,Seminar,1490,0
+C0069,Project Management,E-Learning,1100,0
+C0069,Logistics,E-Learning,790,1
+C0069,Project Management,Seminar,1490,0
+C0069,Leadership,Seminar,1100,0
+C0069,HR Management,Workshop,990,1
+C0069,HR Management,E-Learning,490,0
+C0069,Supply Chain,Seminar,990,0
+C0069,HR Management,E-Learning,1490,0
+C0070,Project Management,Congress,490,0
+C0070,HR Management,E-Learning,790,0
+C0070,Supply Chain,Seminar,990,0
+C0071,Finance,Seminar,790,0
+C0071,IT & Digitalisation,Seminar,990,0
+C0071,Leadership,E-Learning,1100,0
+C0071,Legal & Compliance,Workshop,990,0
+C0072,SAP S/4HANA,E-Learning,490,0
+C0073,SAP S/4HANA,E-Learning,990,0
+C0073,Leadership,E-Learning,890,0
+C0073,Legal & Compliance,Workshop,650,0
+C0073,IT & Digitalisation,Workshop,299,0
+C0073,Logistics,Workshop,890,0
+C0073,Leadership,Workshop,990,0
+C0073,HR Management,Congress,1290,0
+C0075,Logistics,Seminar,650,0
+C0075,IT & Digitalisation,E-Learning,1290,0
+C0075,Logistics,Congress,1490,0
+C0077,Project Management,Workshop,1490,1
+C0077,SAP S/4HANA,Seminar,890,0
+C0077,Legal & Compliance,Congress,890,1
+C0078,Leadership,Workshop,650,0
+C0078,Leadership,E-Learning,990,0
+C0078,SAP S/4HANA,E-Learning,890,0
+C0078,Project Management,E-Learning,1490,0
+C0078,Leadership,Congress,650,1
+C0078,Legal & Compliance,Seminar,990,1
+C0079,Logistics,Seminar,490,0
+C0079,Marketing,Workshop,1490,0
+C0079,Marketing,Seminar,650,0
+C0079,Leadership,Workshop,1290,0
+C0079,Project Management,Congress,650,0
+C0079,SAP S/4HANA,Seminar,490,1
+C0079,Finance,Congress,650,0
+C0079,Supply Chain,E-Learning,1490,1
+C0079,Leadership,E-Learning,790,0
+C0079,Project Management,E-Learning,1490,0
+C0079,SAP S/4HANA,Congress,650,0
+C0080,Logistics,Seminar,299,0
+C0080,HR Management,E-Learning,790,0
+C0080,Logistics,Seminar,1290,0
+C0080,Finance,Workshop,790,0
+C0080,Finance,Workshop,490,0
+C0080,Project Management,Workshop,1100,0
+C0080,Legal & Compliance,Congress,990,0
+C0080,IT & Digitalisation,E-Learning,990,0
+C0080,Project Management,E-Learning,1490,0
+C0080,IT & Digitalisation,Congress,1290,0
+C0081,Project Management,Seminar,299,1
+C0082,Supply Chain,Congress,990,0
+C0082,Supply Chain,Congress,1290,0
+C0082,Legal & Compliance,E-Learning,1290,0
+C0082,Leadership,Workshop,1490,0
+C0084,Legal & Compliance,Workshop,890,0
+C0084,Leadership,Workshop,650,0
+C0084,IT & Digitalisation,Workshop,990,0
+C0084,Marketing,Seminar,1490,1
+C0084,IT & Digitalisation,E-Learning,490,0
+C0084,SAP S/4HANA,Workshop,1490,0
+C0085,Project Management,Seminar,1100,0
+C0085,IT & Digitalisation,E-Learning,650,0
+C0085,Logistics,Workshop,1490,0
+C0085,HR Management,Seminar,650,0
+C0085,Legal & Compliance,Workshop,650,0
+C0085,IT & Digitalisation,E-Learning,650,0
+C0085,Logistics,E-Learning,990,0
+C0085,Logistics,E-Learning,1290,0
+C0085,IT & Digitalisation,E-Learning,490,0
+C0085,Logistics,E-Learning,299,0
+C0086,HR Management,Workshop,650,0
+C0086,Project Management,Congress,299,0
+C0087,IT & Digitalisation,Workshop,650,0
+C0087,Supply Chain,Workshop,1490,0
+C0087,HR Management,Congress,1490,0
+C0087,SAP S/4HANA,E-Learning,1290,0
+C0087,IT & Digitalisation,Congress,1290,1
+C0087,SAP S/4HANA,E-Learning,890,0
+C0087,Supply Chain,Congress,890,1
+C0087,Supply Chain,E-Learning,890,0
+C0087,Legal & Compliance,E-Learning,1290,0
+C0087,SAP S/4HANA,E-Learning,890,0
+C0087,Logistics,Workshop,1100,1
+C0088,Finance,Seminar,990,0
+C0088,Finance,Workshop,790,1
+C0089,Project Management,Seminar,790,0
+C0089,HR Management,Congress,790,0
+C0089,Leadership,Workshop,990,0
+C0089,Leadership,Congress,299,0
+C0089,Marketing,Workshop,1290,0
+C0089,Finance,E-Learning,890,0
+C0089,Leadership,Congress,1490,0
+C0089,Project Management,Workshop,650,0
+C0090,Finance,Seminar,299,0
+C0090,Logistics,Seminar,990,1
+C0090,Legal & Compliance,Workshop,650,0
+C0090,Finance,Congress,490,0
+C0090,Project Management,Workshop,890,0
+C0090,HR Management,E-Learning,890,0
+C0090,Project Management,Workshop,1100,0
+C0091,Project Management,Congress,1290,1
+C0091,Supply Chain,Seminar,890,0
+C0091,Supply Chain,Workshop,890,0
+C0091,Finance,Seminar,890,0
+C0091,Supply Chain,Seminar,490,0
+C0091,Finance,Congress,1100,0
+C0091,Leadership,E-Learning,990,0
+C0091,Supply Chain,Congress,1290,0
+C0091,Legal & Compliance,E-Learning,1100,0
+C0091,SAP S/4HANA,Congress,790,0
+C0091,SAP S/4HANA,Workshop,1490,0
+C0092,HR Management,Congress,1490,0
+C0093,Leadership,Congress,1290,0
+C0093,SAP S/4HANA,Workshop,299,0
+C0093,Project Management,Workshop,1290,0
+C0093,SAP S/4HANA,Workshop,890,0
+C0094,Supply Chain,Seminar,299,1
+C0094,IT & Digitalisation,Seminar,1490,0
+C0094,Leadership,Workshop,299,0
+C0094,Marketing,Congress,650,0
+C0096,SAP S/4HANA,Congress,990,0
+C0096,Project Management,Workshop,1490,0
+C0096,Supply Chain,Seminar,299,0
+C0096,Legal & Compliance,Workshop,1490,0
+C0096,Supply Chain,Congress,1290,0
+C0096,Project Management,E-Learning,790,0
+C0096,HR Management,Workshop,299,0
+C0096,Supply Chain,Seminar,490,0
+C0096,Legal & Compliance,Seminar,790,1
+C0096,Marketing,Workshop,790,0
+C0098,Logistics,E-Learning,790,0
+C0098,Project Management,Congress,1100,0
+C0098,Finance,Seminar,1490,0
+C0098,Marketing,Workshop,299,0
+C0099,Marketing,Workshop,650,0
+C0099,Marketing,Congress,1490,0
+C0099,Supply Chain,Congress,890,0
+C0099,Legal & Compliance,Seminar,1490,0
+C0101,Supply Chain,E-Learning,490,0
+C0101,IT & Digitalisation,Seminar,1490,0
+C0104,Legal & Compliance,Congress,990,0
+C0104,HR Management,Congress,790,0
+C0104,Legal & Compliance,Congress,790,1
+C0104,Supply Chain,E-Learning,890,0
+C0104,Legal & Compliance,E-Learning,890,0
+C0104,IT & Digitalisation,Workshop,1290,0
+C0104,Legal & Compliance,E-Learning,790,0
+C0105,Logistics,Congress,650,0
+C0105,Finance,Workshop,890,0
+C0105,Supply Chain,E-Learning,790,1
+C0105,Logistics,Congress,1290,0
+C0105,Finance,Workshop,1290,0
+C0105,Project Management,E-Learning,650,0
+C0105,SAP S/4HANA,Workshop,650,0
+C0105,SAP S/4HANA,Seminar,490,0
+C0105,HR Management,Workshop,650,0
+C0105,Leadership,Congress,299,0
+C0105,SAP S/4HANA,Workshop,990,0
+C0106,Legal & Compliance,Seminar,299,0
+C0106,HR Management,Seminar,1490,0
+C0106,SAP S/4HANA,E-Learning,299,0
+C0106,Project Management,Seminar,490,0
+C0106,Supply Chain,Congress,1490,1
+C0106,IT & Digitalisation,E-Learning,1100,0
+C0106,IT & Digitalisation,Workshop,1290,0
+C0106,Supply Chain,E-Learning,490,0
+C0106,Leadership,Workshop,1100,0
+C0106,SAP S/4HANA,Workshop,299,0
+C0106,Project Management,Seminar,1290,0
+C0108,Supply Chain,Workshop,890,0
+C0108,Leadership,E-Learning,1490,0
+C0108,Project Management,E-Learning,299,0
+C0108,Logistics,Congress,1100,0
+C0109,Logistics,Workshop,1490,0
+C0109,Marketing,Congress,490,0
+C0109,HR Management,Seminar,1100,0
+C0110,IT & Digitalisation,Seminar,890,0
+C0110,Legal & Compliance,Congress,990,0
+C0110,Marketing,Congress,1100,0
+C0110,Logistics,E-Learning,790,0
+C0110,Leadership,E-Learning,650,0
+C0110,Project Management,Workshop,990,0
+C0110,Leadership,Seminar,299,0
+C0110,Legal & Compliance,E-Learning,890,0
+C0110,Project Management,Seminar,650,0
+C0110,Legal & Compliance,Workshop,490,0
+C0111,Logistics,E-Learning,1100,0
+C0111,Finance,Workshop,1100,0
+C0112,Marketing,Congress,650,0
+C0112,Finance,E-Learning,1290,0
+C0112,Leadership,Congress,1100,0
+C0112,Marketing,E-Learning,1290,0
+C0112,IT & Digitalisation,E-Learning,790,1
+C0112,Logistics,Congress,1290,0
+C0112,Project Management,E-Learning,299,0
+C0112,IT & Digitalisation,Workshop,990,0
+C0112,IT & Digitalisation,Workshop,650,0
+C0114,Marketing,E-Learning,890,0
+C0114,Logistics,Congress,990,1
+C0114,Finance,Workshop,990,0
+C0114,Logistics,Congress,1490,0
+C0114,SAP S/4HANA,Seminar,1290,1
+C0114,Legal & Compliance,E-Learning,490,0
+C0114,Legal & Compliance,Congress,890,0
+C0114,Finance,Congress,1100,1
+C0114,Leadership,Workshop,1290,0
+C0116,SAP S/4HANA,Seminar,490,0
+C0116,IT & Digitalisation,Congress,299,0
+C0116,IT & Digitalisation,Workshop,490,0
+C0116,Leadership,E-Learning,790,0
+C0116,Legal & Compliance,E-Learning,1100,0
+C0116,Logistics,Congress,990,0
+C0116,Legal & Compliance,Seminar,890,0
+C0117,IT & Digitalisation,E-Learning,990,0
+C0117,Supply Chain,Workshop,990,1
+C0117,Leadership,Workshop,1290,0
+C0117,Leadership,E-Learning,299,0
+C0117,HR Management,E-Learning,490,0
+C0117,Supply Chain,Congress,1490,0
+C0117,IT & Digitalisation,Workshop,1290,0
+C0118,Marketing,Workshop,299,1
+C0118,Legal & Compliance,Workshop,1100,0
+C0118,Supply Chain,Congress,890,0
+C0118,Logistics,Seminar,1490,1
+C0118,IT & Digitalisation,E-Learning,790,0
+C0118,Leadership,E-Learning,1290,0
+C0118,Logistics,Workshop,1100,1
+C0118,IT & Digitalisation,E-Learning,1290,0
+C0118,Finance,Seminar,650,0
+C0118,Leadership,Congress,890,0
+C0118,Project Management,E-Learning,650,1
+C0120,Project Management,Workshop,1490,0
+C0120,SAP S/4HANA,Congress,1290,0
+C0120,Project Management,Congress,990,0
+C0121,HR Management,Workshop,650,1
+C0122,Marketing,Workshop,1100,0
+C0122,Legal & Compliance,Congress,490,0
+C0122,Supply Chain,E-Learning,299,0
+C0122,Supply Chain,E-Learning,650,1
+C0122,Logistics,Workshop,1490,1
+C0123,SAP S/4HANA,E-Learning,1490,0
+C0123,Legal & Compliance,Congress,1100,0
+C0123,Supply Chain,E-Learning,299,0
+C0123,Finance,E-Learning,490,0
+C0123,Leadership,Congress,790,0
+C0124,Logistics,Congress,790,0
+C0124,HR Management,E-Learning,1490,1
+C0124,Logistics,Congress,990,0
+C0124,Finance,E-Learning,1490,0
+C0124,Project Management,Workshop,299,0
+C0124,Project Management,Congress,790,1
+C0124,IT & Digitalisation,Congress,1100,0
+C0124,Project Management,E-Learning,1100,0
+C0125,Marketing,E-Learning,990,0
+C0125,Legal & Compliance,E-Learning,299,1
+C0125,Legal & Compliance,E-Learning,490,1
+C0125,Supply Chain,Workshop,790,0
+C0125,Finance,E-Learning,890,0
+C0125,SAP S/4HANA,Congress,1290,0
+C0126,Legal & Compliance,Seminar,490,0
+C0126,Legal & Compliance,Workshop,299,0
+C0126,Supply Chain,Congress,890,0
+C0128,Project Management,Seminar,1100,0
+C0128,Supply Chain,Workshop,490,0
+C0128,HR Management,Congress,1290,0
+C0128,Project Management,Congress,1490,0
+C0128,HR Management,Seminar,990,0
+C0128,Marketing,Congress,1290,0
+C0128,Supply Chain,Workshop,490,0
+C0129,Finance,Congress,1100,0
+C0129,Project Management,Seminar,1490,0
+C0129,Logistics,Congress,1290,0
+C0129,Supply Chain,Congress,1100,0
+C0129,Supply Chain,Seminar,490,1
+C0129,Leadership,Workshop,990,0
+C0129,IT & Digitalisation,Congress,790,0
+C0129,Leadership,Congress,1490,0
+C0129,HR Management,E-Learning,790,0
+C0130,Supply Chain,Workshop,1100,0
+C0130,Supply Chain,Workshop,490,0
+C0130,IT & Digitalisation,E-Learning,650,0
+C0131,SAP S/4HANA,Congress,1290,0
+C0131,HR Management,Seminar,299,1
+C0131,Supply Chain,Seminar,299,0
+C0131,SAP S/4HANA,E-Learning,1490,0
+C0131,Marketing,Workshop,490,0
+C0131,Finance,Seminar,890,0
+C0131,SAP S/4HANA,Congress,650,0
+C0133,HR Management,Congress,490,0
+C0133,Leadership,Workshop,299,0
+C0133,Project Management,Seminar,299,0
+C0133,HR Management,Congress,1290,0
+C0133,SAP S/4HANA,E-Learning,650,0
+C0133,Project Management,E-Learning,490,0
+C0133,IT & Digitalisation,Workshop,890,0
+C0133,Finance,Seminar,1290,0
+C0134,Legal & Compliance,Congress,990,0
+C0134,Finance,Seminar,490,0
+C0134,SAP S/4HANA,Seminar,299,0
+C0134,Supply Chain,Seminar,1290,0
+C0134,Marketing,Congress,650,0
+C0134,SAP S/4HANA,Workshop,790,1
+C0134,Supply Chain,Workshop,990,0
+C0135,Leadership,Seminar,650,0
+C0135,SAP S/4HANA,Seminar,1100,0
+C0135,Legal & Compliance,E-Learning,890,1
+C0135,Leadership,Workshop,299,1
+C0135,Supply Chain,E-Learning,890,0
+C0135,Legal & Compliance,E-Learning,1290,0
+C0135,SAP S/4HANA,Congress,650,0
+C0135,Marketing,Seminar,790,0
+C0135,HR Management,E-Learning,299,0
+C0135,Finance,Seminar,790,0
+C0136,Project Management,E-Learning,490,0
+C0136,Supply Chain,Workshop,990,0
+C0136,Leadership,Seminar,1490,0
+C0136,Marketing,Seminar,299,0
+C0136,Project Management,Congress,890,0
+C0136,IT & Digitalisation,Workshop,990,0
+C0136,Legal & Compliance,E-Learning,790,0
+C0139,Marketing,Seminar,1490,0
+C0139,Supply Chain,Workshop,890,1
+C0139,Finance,Seminar,490,0
+C0139,Finance,Seminar,790,0
+C0139,Project Management,Seminar,790,0
+C0139,Marketing,Seminar,890,0
+C0140,Legal & Compliance,Congress,490,0
+C0140,Leadership,Congress,490,0
+C0142,Leadership,E-Learning,490,0
+C0142,Leadership,Congress,1290,0
+C0142,Leadership,E-Learning,490,0
+C0143,Logistics,Workshop,1100,0
+C0143,HR Management,Workshop,1100,0
+C0143,IT & Digitalisation,Congress,650,0
+C0143,Finance,Workshop,650,1
+C0143,Logistics,Congress,890,0
+C0143,Marketing,Workshop,299,0
+C0143,Finance,Workshop,650,0
+C0143,Supply Chain,Congress,1490,0
+C0144,SAP S/4HANA,Workshop,990,0
+C0144,Marketing,E-Learning,650,0
+C0144,IT & Digitalisation,Congress,299,0
+C0144,HR Management,Workshop,1490,0
+C0144,Logistics,Congress,650,0
+C0145,SAP S/4HANA,Seminar,790,0
+C0145,IT & Digitalisation,Congress,650,0
+C0145,Logistics,E-Learning,990,0
+C0145,IT & Digitalisation,Congress,790,0
+C0145,SAP S/4HANA,E-Learning,650,0
+C0145,HR Management,Seminar,299,0
+C0145,Logistics,Congress,299,0
+C0146,Project Management,E-Learning,650,0
+C0146,HR Management,Seminar,650,0
+C0146,Leadership,E-Learning,490,0
+C0146,Marketing,Seminar,990,0
+C0146,IT & Digitalisation,Congress,650,0
+C0146,Legal & Compliance,E-Learning,650,0
+C0146,Supply Chain,Congress,1100,0
+C0146,Finance,Congress,650,0
+C0146,Logistics,Workshop,299,0
+C0146,Logistics,E-Learning,790,0
+C0147,Leadership,Congress,990,0
+C0148,Legal & Compliance,Seminar,890,0
+C0148,Supply Chain,Seminar,990,0
+C0148,Leadership,Seminar,299,0
+C0148,Legal & Compliance,Workshop,650,0
+C0148,Legal & Compliance,Workshop,990,0
+C0148,Leadership,Workshop,790,0
+C0148,Legal & Compliance,Seminar,299,0
+C0149,Leadership,Seminar,990,0
+C0149,Marketing,Congress,490,1
+C0149,IT & Digitalisation,Workshop,299,1
+C0149,Project Management,Workshop,650,1
+C0149,Leadership,E-Learning,790,0
+C0149,Marketing,E-Learning,890,0
+C0149,Supply Chain,Seminar,299,0
+C0149,Logistics,Workshop,650,0
+C0149,IT & Digitalisation,Seminar,1100,0
+C0149,Finance,Workshop,790,0
+C0149,HR Management,Congress,650,0
+C0151,Legal & Compliance,E-Learning,490,0
+C0151,Project Management,E-Learning,1100,0
+C0151,Project Management,Workshop,299,0
+C0151,Legal & Compliance,Workshop,890,1
+C0151,Finance,Seminar,650,0
+C0152,Logistics,Congress,1490,0
+C0152,Marketing,Workshop,1490,0
+C0152,Logistics,Congress,1290,1
+C0153,SAP S/4HANA,Congress,490,0
+C0153,Project Management,Congress,790,0
+C0153,Project Management,Seminar,1100,0
+C0154,Logistics,E-Learning,990,0
+C0155,SAP S/4HANA,E-Learning,890,0
+C0155,HR Management,Workshop,490,0
+C0155,Project Management,Congress,490,0
+C0155,Logistics,Seminar,890,0
+C0155,Marketing,E-Learning,1100,0
+C0155,Logistics,Workshop,299,0
+C0155,Finance,Workshop,650,0
+C0155,HR Management,Workshop,990,0
+C0155,HR Management,Workshop,890,0
+C0155,HR Management,E-Learning,890,0
+C0156,Supply Chain,Congress,890,0
+C0156,IT & Digitalisation,E-Learning,1100,1
+C0156,Supply Chain,Workshop,790,0
+C0156,Legal & Compliance,E-Learning,299,0
+C0156,Leadership,E-Learning,1490,0
+C0157,Project Management,Congress,790,0
+C0157,Supply Chain,Seminar,1290,1
+C0157,IT & Digitalisation,Congress,890,0
+C0159,IT & Digitalisation,Workshop,1290,0
+C0159,Legal & Compliance,E-Learning,990,1
+C0159,Finance,Seminar,890,0
+C0159,Marketing,Seminar,650,1
+C0159,Supply Chain,Congress,790,0
+C0159,Marketing,Seminar,299,0
+C0161,Finance,Workshop,1100,0
+C0161,Legal & Compliance,E-Learning,790,0
+C0161,Finance,Workshop,490,0
+C0161,SAP S/4HANA,E-Learning,1490,0
+C0161,Finance,Seminar,1290,0
+C0161,IT & Digitalisation,E-Learning,990,0
+C0161,Finance,E-Learning,790,0
+C0162,Logistics,Workshop,990,0
+C0162,HR Management,Workshop,890,0
+C0163,HR Management,Congress,990,0
+C0163,SAP S/4HANA,Workshop,990,0
+C0163,Project Management,Congress,890,0
+C0163,Legal & Compliance,Congress,890,0
+C0163,IT & Digitalisation,Seminar,790,0
+C0163,Supply Chain,E-Learning,1100,1
+C0164,Legal & Compliance,Seminar,1290,0
+C0164,Logistics,Seminar,1290,0
+C0164,SAP S/4HANA,Seminar,1100,0
+C0164,Marketing,Seminar,650,0
+C0164,Supply Chain,E-Learning,1100,0
+C0164,Project Management,E-Learning,650,0
+C0164,Legal & Compliance,E-Learning,650,0
+C0164,HR Management,Seminar,1290,0
+C0164,Supply Chain,Congress,650,0
+C0164,Leadership,Congress,1100,0
+C0164,Marketing,Workshop,1290,0
+C0165,IT & Digitalisation,Seminar,990,0
+C0165,HR Management,Seminar,790,1
+C0165,IT & Digitalisation,E-Learning,650,0
+C0165,Marketing,E-Learning,650,0
+C0165,HR Management,E-Learning,890,0
+C0165,SAP S/4HANA,E-Learning,1100,0
+C0165,IT & Digitalisation,Workshop,990,0
+C0165,Project Management,Workshop,299,0
+C0165,Supply Chain,Congress,790,0
+C0165,Logistics,Congress,490,0
+C0165,HR Management,Workshop,890,0
+C0166,HR Management,Seminar,490,0
+C0166,Legal & Compliance,Workshop,490,0
+C0166,Legal & Compliance,Congress,790,0
+C0166,Finance,Workshop,490,0
+C0166,Logistics,Congress,1100,0
+C0166,SAP S/4HANA,Seminar,890,0
+C0167,Logistics,Congress,890,0
+C0168,Project Management,Seminar,1490,0
+C0168,Supply Chain,Workshop,990,0
+C0168,HR Management,Seminar,490,0
+C0168,Logistics,Workshop,650,0
+C0169,Finance,Congress,1290,0
+C0169,Finance,Workshop,299,0
+C0169,Project Management,Seminar,890,0
+C0169,IT & Digitalisation,Workshop,490,0
+C0169,HR Management,Seminar,650,0
+C0169,IT & Digitalisation,E-Learning,1290,0
+C0169,Leadership,E-Learning,990,0
+C0169,Leadership,Workshop,1100,0
+C0169,Finance,Workshop,1290,1
+C0169,Project Management,Seminar,650,0
+C0169,Project Management,Seminar,1100,0
+C0170,Logistics,Workshop,990,0
+C0170,Project Management,Workshop,1290,0
+C0170,Marketing,Workshop,299,1
+C0170,Finance,E-Learning,299,0
+C0170,IT & Digitalisation,Seminar,1100,0
+C0170,Legal & Compliance,E-Learning,1100,0
+C0171,HR Management,Congress,1490,0
+C0171,Legal & Compliance,Congress,490,0
+C0171,IT & Digitalisation,Congress,990,0
+C0171,HR Management,Congress,1490,0
+C0171,Marketing,Congress,490,0
+C0171,Legal & Compliance,Workshop,490,0
+C0172,Legal & Compliance,Seminar,490,1
+C0172,Marketing,Seminar,1490,0
+C0172,Leadership,E-Learning,1490,1
+C0172,Legal & Compliance,E-Learning,990,0
+C0173,SAP S/4HANA,Workshop,990,1
+C0173,Leadership,Seminar,790,0
+C0173,IT & Digitalisation,E-Learning,890,0
+C0173,Leadership,Seminar,650,0
+C0173,Project Management,Workshop,490,1
+C0174,Leadership,Workshop,790,0
+C0174,Supply Chain,E-Learning,490,0
+C0174,HR Management,Seminar,1290,0
+C0174,Logistics,Congress,1290,0
+C0174,SAP S/4HANA,Seminar,1490,0
+C0175,Logistics,Congress,650,0
+C0175,Marketing,E-Learning,1490,0
+C0175,Marketing,Congress,890,0
+C0175,IT & Digitalisation,E-Learning,1290,0
+C0175,Project Management,Workshop,1490,0
+C0175,SAP S/4HANA,E-Learning,1490,0
+C0175,Supply Chain,Congress,890,0
+C0175,Project Management,Congress,1490,0
+C0177,SAP S/4HANA,E-Learning,1100,1
+C0177,SAP S/4HANA,Seminar,299,0
+C0178,Supply Chain,E-Learning,650,0
+C0178,Finance,Congress,299,0
+C0178,Supply Chain,Seminar,990,0
+C0178,Leadership,Congress,1490,0
+C0179,HR Management,Workshop,1100,0
+C0179,IT & Digitalisation,Seminar,299,0
+C0179,Supply Chain,Workshop,790,0
+C0179,Logistics,Congress,790,0
+C0179,Legal & Compliance,Congress,490,0
+C0179,Project Management,Seminar,1100,0
+C0179,Marketing,E-Learning,1490,1
+C0180,HR Management,E-Learning,1290,0
+C0180,HR Management,Congress,990,0
+C0180,Logistics,E-Learning,1290,0
+C0181,Project Management,Seminar,1490,0
+C0181,Marketing,Workshop,490,0
+C0181,Supply Chain,Congress,990,0
+C0181,IT & Digitalisation,E-Learning,790,1
+C0181,SAP S/4HANA,Seminar,490,1
+C0181,Legal & Compliance,Congress,790,0
+C0181,IT & Digitalisation,Workshop,490,0
+C0181,Finance,E-Learning,299,0
+C0181,SAP S/4HANA,Workshop,1290,0
+C0181,Finance,Congress,990,0
+C0182,Leadership,Congress,790,1
+C0182,Leadership,Congress,1490,1
+C0183,Legal & Compliance,E-Learning,299,0
+C0183,Leadership,Seminar,650,0
+C0184,Finance,Workshop,1100,0
+C0184,Marketing,Workshop,990,0
+C0187,Finance,E-Learning,490,0
+C0187,Legal & Compliance,Workshop,1100,0
+C0187,Legal & Compliance,Congress,1490,1
+C0187,Project Management,Workshop,1490,0
+C0187,Project Management,E-Learning,990,0
+C0187,SAP S/4HANA,Congress,490,0
+C0187,HR Management,Workshop,1490,0
+C0187,Finance,Congress,990,0
+C0187,Marketing,Congress,650,0
+C0188,Supply Chain,Seminar,650,0
+C0188,SAP S/4HANA,Workshop,1490,0
+C0188,Finance,Seminar,890,0
+C0188,Supply Chain,Workshop,990,0
+C0188,Project Management,Congress,490,0
+C0188,Logistics,Seminar,790,1
+C0188,Legal & Compliance,Workshop,990,0
+C0189,IT & Digitalisation,Workshop,650,0
+C0189,IT & Digitalisation,Congress,790,0
+C0189,Finance,E-Learning,650,0
+C0189,Legal & Compliance,Workshop,1290,0
+C0189,Finance,Workshop,1490,0
+C0189,Project Management,Seminar,890,0
+C0190,Leadership,Seminar,299,0
+C0190,Logistics,Workshop,790,0
+C0191,Project Management,E-Learning,1100,0
+C0191,Logistics,E-Learning,650,0
+C0191,SAP S/4HANA,Seminar,1100,1
+C0191,SAP S/4HANA,Seminar,790,0
+C0191,SAP S/4HANA,Congress,1290,0
+C0191,Project Management,Congress,1290,0
+C0192,Supply Chain,Seminar,890,0
+C0192,Supply Chain,Seminar,790,0
+C0192,Marketing,Workshop,1290,1
+C0192,HR Management,E-Learning,490,0
+C0192,Finance,Congress,1100,0
+C0192,IT & Digitalisation,Seminar,1490,0
+C0192,Marketing,Congress,1490,1
+C0193,Legal & Compliance,Seminar,1490,0
+C0193,Legal & Compliance,Congress,790,0
+C0193,SAP S/4HANA,E-Learning,790,0
+C0193,Project Management,Congress,990,0
+C0193,Supply Chain,Workshop,990,0
+C0193,Legal & Compliance,Workshop,1290,0
+C0193,Logistics,Congress,1100,0
+C0194,Logistics,Congress,650,0
+C0194,Logistics,Congress,299,0
+C0194,Finance,Congress,1490,1
+C0194,Logistics,Seminar,890,0
+C0194,Supply Chain,Workshop,1290,0
+C0194,Project Management,Congress,1100,0
+C0195,Project Management,E-Learning,1290,0
+C0195,Supply Chain,Workshop,1100,0
+C0195,Leadership,Seminar,790,0
+C0195,Project Management,Seminar,650,0
+C0195,Logistics,Seminar,1490,0
+C0195,Leadership,Workshop,650,0
+C0195,Marketing,Workshop,990,0
+C0195,SAP S/4HANA,Workshop,790,0
+C0195,Marketing,E-Learning,490,0
+C0195,Project Management,E-Learning,1290,0
+C0196,Finance,Congress,299,0
+C0196,Logistics,Seminar,1490,0
+C0196,Marketing,Congress,990,1
+C0196,IT & Digitalisation,Seminar,650,0
+C0196,Logistics,E-Learning,890,0
+C0196,Logistics,E-Learning,890,0
+C0197,Project Management,E-Learning,1490,0
+C0198,Marketing,Congress,490,0
+C0198,Legal & Compliance,Congress,490,0
+C0198,SAP S/4HANA,Workshop,990,1
+C0198,Project Management,Workshop,299,1
+C0198,Project Management,Workshop,1100,0
+C0198,Leadership,E-Learning,790,1
+C0198,Leadership,Seminar,1100,0
+C0198,Logistics,E-Learning,299,0
+C0199,Supply Chain,E-Learning,790,1
+C0199,Logistics,Congress,650,0
+C0199,IT & Digitalisation,Congress,299,0
+C0199,Leadership,E-Learning,1100,0
+C0200,SAP S/4HANA,Seminar,490,0
+C0200,SAP S/4HANA,E-Learning,1490,0
+C0200,IT & Digitalisation,E-Learning,790,0
+C0200,Legal & Compliance,Workshop,299,1
+C0200,Project Management,Workshop,1490,0
+C0200,SAP S/4HANA,Seminar,1490,0
+C0200,IT & Digitalisation,Seminar,1490,0
+C0200,SAP S/4HANA,E-Learning,1290,0
+C0200,Logistics,Workshop,790,1
+C0200,Legal & Compliance,Workshop,299,1
+C0201,Marketing,Congress,790,0
+C0201,Marketing,E-Learning,1490,0
+C0201,Finance,Congress,890,0
+C0201,Marketing,E-Learning,490,0
+C0201,Legal & Compliance,E-Learning,990,1
+C0201,Logistics,E-Learning,650,0
+C0201,Legal & Compliance,Congress,790,0
+C0201,Finance,Congress,790,0
+C0202,Project Management,Seminar,490,0
+C0202,Legal & Compliance,Seminar,1490,0
+C0202,Legal & Compliance,E-Learning,990,0
+C0202,Logistics,E-Learning,1290,0
+C0202,SAP S/4HANA,E-Learning,1100,0
+C0202,Logistics,Congress,299,0
+C0202,Legal & Compliance,Seminar,1490,0
+C0202,Marketing,Congress,1290,0
+C0202,SAP S/4HANA,Workshop,990,0
+C0203,Logistics,Seminar,990,0
+C0203,Logistics,E-Learning,650,0
+C0203,Supply Chain,E-Learning,1290,1
+C0203,IT & Digitalisation,Congress,1290,0
+C0203,Supply Chain,Workshop,990,0
+C0203,Marketing,E-Learning,1290,0
+C0203,Logistics,Congress,790,0
+C0203,Finance,Congress,1490,0
+C0204,Project Management,Workshop,299,1
+C0204,Marketing,Workshop,650,0
+C0204,Legal & Compliance,E-Learning,890,0
+C0204,Marketing,Seminar,650,0
+C0204,Supply Chain,E-Learning,1290,0
+C0204,Legal & Compliance,E-Learning,890,0
+C0204,IT & Digitalisation,E-Learning,990,1
+C0204,Marketing,Seminar,990,0
+C0204,Logistics,Congress,890,1
+C0204,IT & Digitalisation,Workshop,1290,0
+C0204,Marketing,E-Learning,1290,0
+C0205,Logistics,Workshop,490,1
+C0205,Project Management,E-Learning,790,0
+C0205,IT & Digitalisation,E-Learning,890,0
+C0205,Finance,Workshop,990,0
+C0205,Marketing,Congress,650,0
+C0205,Project Management,Congress,890,0
+C0205,Supply Chain,Congress,1100,0
+C0205,Leadership,Seminar,1290,0
+C0205,HR Management,Workshop,1490,0
+C0205,Leadership,E-Learning,650,0
+C0205,Marketing,E-Learning,790,0
+C0206,Project Management,Congress,299,0
+C0206,IT & Digitalisation,E-Learning,1290,0
+C0207,Project Management,Congress,1290,0
+C0207,SAP S/4HANA,E-Learning,990,0
+C0207,SAP S/4HANA,Congress,490,0
+C0207,Finance,E-Learning,1100,0
+C0207,Project Management,E-Learning,299,0
+C0207,SAP S/4HANA,Congress,990,0
+C0207,Legal & Compliance,Seminar,1290,0
+C0207,Finance,Seminar,1100,0
+C0207,Logistics,Congress,299,0
+C0207,Supply Chain,Workshop,1490,0
+C0208,Marketing,Workshop,790,0
+C0208,Leadership,Workshop,790,1
+C0209,Marketing,Congress,490,0
+C0209,Project Management,E-Learning,490,0
+C0209,Logistics,Workshop,890,1
+C0209,Supply Chain,E-Learning,299,0
+C0209,HR Management,Seminar,650,0
+C0209,Finance,E-Learning,650,0
+C0209,HR Management,Congress,490,0
+C0209,HR Management,Workshop,790,1
+C0209,Marketing,E-Learning,1290,0
+C0209,Legal & Compliance,Seminar,990,0
+C0210,Marketing,Seminar,1490,0
+C0210,Project Management,Congress,890,0
+C0210,HR Management,Seminar,790,0
+C0210,Legal & Compliance,Congress,299,0
+C0210,Legal & Compliance,Seminar,1490,1
+C0210,Legal & Compliance,Workshop,890,0
+C0210,Project Management,Seminar,1490,0
+C0211,Supply Chain,E-Learning,299,0
+C0212,IT & Digitalisation,Seminar,650,0
+C0212,Logistics,Seminar,1100,0
+C0212,HR Management,Seminar,1290,0
+C0212,IT & Digitalisation,Seminar,790,0
+C0212,Legal & Compliance,Seminar,990,0
+C0212,HR Management,E-Learning,650,0
+C0212,Project Management,Workshop,790,0
+C0212,SAP S/4HANA,E-Learning,1290,0
+C0212,HR Management,Workshop,990,0
+C0212,Finance,Seminar,1290,0
+C0212,SAP S/4HANA,E-Learning,1490,1
+C0213,SAP S/4HANA,E-Learning,990,1
+C0213,Finance,Congress,490,0
+C0213,Legal & Compliance,E-Learning,890,0
+C0213,Legal & Compliance,Seminar,1490,0
+C0213,Project Management,Seminar,990,0
+C0213,IT & Digitalisation,Seminar,1490,0
+C0213,Supply Chain,Workshop,1490,0
+C0214,Marketing,E-Learning,490,1
+C0214,SAP S/4HANA,Seminar,299,0
+C0214,Project Management,Seminar,790,0
+C0214,Legal & Compliance,Congress,490,0
+C0214,Logistics,Workshop,1290,0
+C0214,HR Management,E-Learning,790,1
+C0215,Leadership,Workshop,299,0
+C0216,HR Management,E-Learning,1490,0
+C0216,Leadership,E-Learning,490,0
+C0216,SAP S/4HANA,Seminar,490,0
+C0217,Supply Chain,Congress,650,0
+C0217,Leadership,E-Learning,1290,0
+C0217,Leadership,Congress,650,0
+C0217,SAP S/4HANA,E-Learning,650,0
+C0217,IT & Digitalisation,E-Learning,1490,0
+C0217,IT & Digitalisation,Workshop,1100,0
+C0218,Marketing,E-Learning,990,0
+C0218,Legal & Compliance,Workshop,299,0
+C0219,SAP S/4HANA,Congress,890,0
+C0219,Finance,Congress,790,0
+C0219,HR Management,E-Learning,1490,0
+C0219,Leadership,Seminar,1290,0
+C0219,Project Management,Congress,890,0
+C0219,Logistics,Congress,790,0
+C0219,Finance,Seminar,1100,0
+C0219,Leadership,E-Learning,1290,0
+C0219,Legal & Compliance,Seminar,890,0
+C0219,Logistics,Workshop,490,0
+C0219,IT & Digitalisation,E-Learning,1100,0
+C0221,SAP S/4HANA,Seminar,990,0
+C0221,IT & Digitalisation,Congress,650,0
+C0221,Marketing,Workshop,1490,0
+C0221,Supply Chain,Workshop,890,0
+C0221,Project Management,Congress,990,0
+C0221,Legal & Compliance,Seminar,1490,0
+C0221,Finance,Seminar,1100,1
+C0221,Project Management,Congress,1290,0
+C0222,SAP S/4HANA,Congress,790,0
+C0222,Finance,Workshop,990,0
+C0222,Leadership,Workshop,1100,0
+C0222,IT & Digitalisation,Congress,990,0
+C0222,Logistics,Seminar,890,1
+C0222,IT & Digitalisation,Workshop,650,0
+C0222,HR Management,Congress,790,0
+C0222,Project Management,Seminar,490,0
+C0222,Supply Chain,Congress,890,0
+C0222,IT & Digitalisation,Seminar,890,1
+C0224,Supply Chain,E-Learning,1490,0
+C0224,Logistics,Congress,299,0
+C0224,Logistics,Seminar,890,0
+C0224,HR Management,E-Learning,790,0
+C0224,HR Management,Workshop,299,0
+C0224,Marketing,E-Learning,990,0
+C0224,HR Management,E-Learning,1100,0
+C0224,Marketing,Seminar,990,0
+C0224,Logistics,Seminar,650,0
+C0224,SAP S/4HANA,Workshop,1490,0
+C0224,HR Management,Congress,1490,0
+C0225,Project Management,Seminar,990,0
+C0226,SAP S/4HANA,E-Learning,299,0
+C0226,Marketing,Seminar,1490,0
+C0226,Supply Chain,Congress,990,0
+C0226,Project Management,Seminar,1100,0
+C0226,Marketing,Congress,650,1
+C0227,Legal & Compliance,Congress,790,0
+C0227,Logistics,Congress,650,0
+C0227,SAP S/4HANA,Congress,1100,1
+C0227,Logistics,Congress,990,0
+C0227,SAP S/4HANA,Seminar,650,1
+C0228,Marketing,Workshop,890,0
+C0228,Finance,Congress,790,0
+C0228,Project Management,Congress,299,0
+C0228,Logistics,Congress,790,1
+C0228,HR Management,E-Learning,490,0
+C0229,IT & Digitalisation,Congress,1100,0
+C0230,Supply Chain,Congress,299,0
+C0230,HR Management,E-Learning,1100,1
+C0230,Supply Chain,Congress,490,1
+C0230,Legal & Compliance,Workshop,990,0
+C0230,Supply Chain,Workshop,1100,0
+C0230,Logistics,Workshop,990,0
+C0230,Logistics,Seminar,1490,0
+C0230,Legal & Compliance,Workshop,299,0
+C0231,HR Management,Workshop,1490,1
+C0232,Marketing,E-Learning,890,1
+C0232,Project Management,Workshop,890,0
+C0232,SAP S/4HANA,Congress,1290,0
+C0232,Leadership,Seminar,650,1
+C0232,Marketing,Workshop,990,0
+C0232,HR Management,Congress,1290,1
+C0232,Legal & Compliance,Seminar,890,0
+C0232,Project Management,Seminar,490,0
+C0232,Legal & Compliance,E-Learning,490,0
+C0232,SAP S/4HANA,Congress,1100,0
+C0232,HR Management,Congress,990,0
+C0233,HR Management,Workshop,890,0
+C0233,Legal & Compliance,E-Learning,650,0
+C0233,Project Management,Congress,299,0
+C0233,HR Management,Workshop,1290,0
+C0233,SAP S/4HANA,Seminar,1290,0
+C0233,Supply Chain,Workshop,1290,0
+C0233,Legal & Compliance,Seminar,299,1
+C0233,SAP S/4HANA,E-Learning,1490,0
+C0233,HR Management,Congress,650,0
+C0233,IT & Digitalisation,Seminar,650,0
+C0234,IT & Digitalisation,Seminar,299,0
+C0234,Marketing,Congress,650,1
+C0234,Logistics,Congress,1290,0
+C0234,HR Management,Seminar,890,0
+C0234,IT & Digitalisation,Workshop,490,0
+C0234,SAP S/4HANA,Seminar,890,0
+C0234,Project Management,Seminar,890,0
+C0234,SAP S/4HANA,Workshop,1490,0
+C0234,Supply Chain,Seminar,490,0
+C0234,Legal & Compliance,E-Learning,1100,0
+C0234,Finance,E-Learning,650,0
+C0235,Project Management,Congress,890,0
+C0236,Legal & Compliance,Seminar,790,0
+C0236,Marketing,Seminar,990,0
+C0236,SAP S/4HANA,Congress,299,0
+C0236,Finance,E-Learning,490,0
+C0237,HR Management,Seminar,990,0
+C0237,Marketing,Seminar,650,0
+C0239,Legal & Compliance,Congress,1290,0
+C0239,Legal & Compliance,Workshop,299,0
+C0239,Logistics,E-Learning,1490,0
+C0239,Supply Chain,E-Learning,990,0
+C0239,Project Management,E-Learning,299,0
+C0239,Marketing,Congress,1100,0
+C0240,IT & Digitalisation,Seminar,890,0
+C0240,Leadership,Workshop,790,0
+C0240,Legal & Compliance,E-Learning,790,0
+C0240,Project Management,Seminar,990,0
+C0240,Supply Chain,Seminar,1290,0
+C0240,Legal & Compliance,Congress,790,1
+C0240,Legal & Compliance,E-Learning,990,0
+C0240,Leadership,Congress,790,0
+C0240,Legal & Compliance,Workshop,1490,0
+C0240,HR Management,E-Learning,299,0
+C0240,IT & Digitalisation,Workshop,299,0
+C0241,Logistics,E-Learning,790,0
+C0241,Supply Chain,Congress,890,0
+C0242,Leadership,E-Learning,650,0
+C0242,Finance,Seminar,299,0
+C0242,Supply Chain,E-Learning,1490,0
+C0242,Finance,Congress,890,0
+C0242,Project Management,Seminar,890,0
+C0242,SAP S/4HANA,Workshop,299,0
+C0242,HR Management,Workshop,299,0
+C0242,Marketing,Seminar,490,0
+C0242,Marketing,Congress,1290,0
+C0242,Finance,E-Learning,790,0
+C0242,Legal & Compliance,Congress,490,0
+C0243,Legal & Compliance,Workshop,790,0
+C0243,Project Management,E-Learning,990,0
+C0243,Project Management,E-Learning,990,0
+C0243,Legal & Compliance,Seminar,490,0
+C0243,Leadership,E-Learning,1290,0
+C0244,Logistics,Congress,1490,0
+C0244,Marketing,Seminar,990,1
+C0244,Finance,Workshop,1100,0
+C0244,Supply Chain,Congress,1490,0
+C0244,Legal & Compliance,Workshop,490,0
+C0244,Supply Chain,Workshop,1100,0
+C0244,SAP S/4HANA,Congress,650,1
+C0244,Logistics,Workshop,490,0
+C0245,Legal & Compliance,Congress,890,0
+C0245,Leadership,Seminar,1100,0
+C0245,Legal & Compliance,Seminar,490,0
+C0245,Project Management,Seminar,650,0
+C0245,Legal & Compliance,E-Learning,1100,1
+C0245,Supply Chain,Congress,990,0
+C0245,Logistics,E-Learning,1100,0
+C0245,Leadership,Seminar,1490,0
+C0245,Project Management,E-Learning,299,0
+C0245,SAP S/4HANA,Seminar,299,0
+C0245,Leadership,E-Learning,299,0
+C0246,IT & Digitalisation,Workshop,1100,0
+C0246,Marketing,Congress,650,0
+C0246,Project Management,Congress,1490,0
+C0246,IT & Digitalisation,Workshop,650,0
+C0246,Project Management,Congress,299,0
+C0246,HR Management,Congress,1290,0
+C0246,Project Management,Seminar,650,0
+C0246,Legal & Compliance,Workshop,650,0
+C0246,SAP S/4HANA,Workshop,1490,0
+C0246,Marketing,E-Learning,790,0
+C0247,Logistics,Workshop,790,1
+C0247,Marketing,E-Learning,299,1
+C0247,Logistics,Workshop,990,1
+C0247,Logistics,Workshop,490,1
+C0247,SAP S/4HANA,E-Learning,1290,0
+C0248,Supply Chain,Workshop,490,1
+C0248,Logistics,Seminar,990,0
+C0248,Legal & Compliance,Workshop,1490,0
+C0249,IT & Digitalisation,E-Learning,890,0
+C0249,HR Management,E-Learning,890,0
+C0249,Legal & Compliance,Congress,299,0
+C0249,Logistics,Seminar,890,1
+C0250,Finance,E-Learning,650,0
+C0250,Finance,E-Learning,299,0
+C0250,Logistics,Congress,650,0
+C0250,IT & Digitalisation,Congress,890,1
+C0250,Legal & Compliance,Congress,1490,0
+C0250,IT & Digitalisation,Seminar,650,0
+C0250,Legal & Compliance,Workshop,1100,0
+C0250,Legal & Compliance,Congress,790,0
+C0250,HR Management,E-Learning,490,0
+C0251,Legal & Compliance,E-Learning,1290,0
+C0251,Marketing,Workshop,1290,0
+C0251,Project Management,Workshop,299,1
+C0251,Legal & Compliance,Workshop,990,0
+C0251,Leadership,E-Learning,1100,0
+C0251,IT & Digitalisation,E-Learning,890,0
+C0252,Legal & Compliance,Congress,790,0
+C0252,Project Management,E-Learning,1490,0
+C0252,HR Management,Seminar,299,0
+C0252,Leadership,Seminar,1290,0
+C0252,Supply Chain,E-Learning,890,0
+C0252,HR Management,Seminar,490,0
+C0253,Leadership,Seminar,650,0
+C0254,Project Management,E-Learning,890,0
+C0254,Leadership,Workshop,890,0
+C0254,IT & Digitalisation,E-Learning,650,0
+C0254,Finance,Seminar,1100,0
+C0254,IT & Digitalisation,Seminar,890,0
+C0254,Project Management,Workshop,490,0
+C0255,Project Management,Workshop,490,1
+C0255,SAP S/4HANA,Workshop,790,0
+C0255,Legal & Compliance,E-Learning,490,0
+C0255,Leadership,Seminar,890,0
+C0255,HR Management,Workshop,650,0
+C0255,HR Management,Workshop,890,0
+C0255,IT & Digitalisation,Workshop,299,0
+C0255,Legal & Compliance,Workshop,1100,0
+C0255,SAP S/4HANA,Congress,299,0
+C0255,Legal & Compliance,Seminar,1490,0
+C0255,IT & Digitalisation,E-Learning,1100,0
+C0256,Leadership,Workshop,890,0
+C0256,Project Management,Seminar,1100,0
+C0256,Finance,Workshop,490,0
+C0256,Legal & Compliance,Seminar,1290,1
+C0256,Project Management,Seminar,790,0
+C0256,Logistics,Congress,1290,1
+C0256,Leadership,E-Learning,1290,0
+C0256,HR Management,Seminar,990,0
+C0257,Leadership,Congress,1490,0
+C0257,SAP S/4HANA,Congress,790,0
+C0257,HR Management,Congress,1290,0
+C0258,Supply Chain,Congress,299,0
+C0258,HR Management,E-Learning,490,0
+C0258,Logistics,Congress,490,0
+C0258,Leadership,Workshop,790,0
+C0258,Supply Chain,Workshop,990,0
+C0258,IT & Digitalisation,Seminar,1490,0
+C0258,IT & Digitalisation,Congress,299,0
+C0258,IT & Digitalisation,Seminar,490,0
+C0259,IT & Digitalisation,Congress,1290,0
+C0259,Logistics,Seminar,650,0
+C0259,Logistics,Workshop,650,0
+C0259,Legal & Compliance,Seminar,299,0
+C0260,Marketing,Workshop,650,0
+C0260,Project Management,E-Learning,1490,1
+C0261,Logistics,Seminar,650,1
+C0261,Logistics,Seminar,890,0
+C0262,Supply Chain,Seminar,1490,0
+C0263,Legal & Compliance,Congress,890,0
+C0263,Supply Chain,Seminar,650,0
+C0264,HR Management,Seminar,990,0
+C0265,IT & Digitalisation,Workshop,299,0
+C0265,HR Management,Congress,650,1
+C0265,Legal & Compliance,Seminar,490,0
+C0265,Legal & Compliance,E-Learning,1100,0
+C0266,IT & Digitalisation,Congress,490,0
+C0266,Marketing,Congress,1100,0
+C0266,Leadership,Workshop,1290,0
+C0266,Marketing,Congress,790,0
+C0266,Project Management,Workshop,990,0
+C0266,Legal & Compliance,Congress,990,0
+C0266,Supply Chain,E-Learning,650,0
+C0266,Logistics,Seminar,890,0
+C0266,Leadership,Workshop,1290,0
+C0266,Project Management,E-Learning,790,1
+C0266,Logistics,Congress,650,0
+C0267,Supply Chain,Workshop,1290,0
+C0267,HR Management,Workshop,790,1
+C0267,IT & Digitalisation,Workshop,790,0
+C0268,HR Management,Seminar,1290,0
+C0268,Marketing,Workshop,1290,0
+C0268,Legal & Compliance,Workshop,790,0
+C0268,SAP S/4HANA,Seminar,1100,0
+C0268,Project Management,E-Learning,890,0
+C0269,Finance,Congress,1290,0
+C0269,Legal & Compliance,Workshop,650,0
+C0269,Project Management,E-Learning,1290,0
+C0269,Leadership,Workshop,990,0
+C0269,Finance,Workshop,890,0
+C0269,Leadership,E-Learning,299,0
+C0269,HR Management,Seminar,1100,0
+C0269,Legal & Compliance,Seminar,990,0
+C0269,Project Management,Seminar,1490,0
+C0269,Project Management,E-Learning,790,0
+C0269,Legal & Compliance,Congress,790,0
+C0270,Finance,Seminar,490,1
+C0270,IT & Digitalisation,Workshop,1290,0
+C0270,Legal & Compliance,E-Learning,1290,0
+C0270,Leadership,Congress,1290,0
+C0270,Leadership,Workshop,650,0
+C0270,Leadership,Seminar,650,1
+C0271,Project Management,Congress,1490,0
+C0271,Finance,Workshop,1490,1
+C0271,Legal & Compliance,E-Learning,1100,0
+C0271,HR Management,E-Learning,790,0
+C0271,HR Management,Congress,1490,0
+C0272,IT & Digitalisation,Workshop,1490,0
+C0272,Legal & Compliance,E-Learning,650,0
+C0272,Project Management,E-Learning,790,0
+C0272,IT & Digitalisation,E-Learning,299,0
+C0272,IT & Digitalisation,E-Learning,1290,0
+C0273,Project Management,Congress,650,0
+C0273,Supply Chain,Seminar,299,0
+C0273,Logistics,Congress,1290,0
+C0273,IT & Digitalisation,Congress,790,0
+C0273,IT & Digitalisation,E-Learning,650,0
+C0273,Legal & Compliance,Congress,1490,0
+C0273,Leadership,Seminar,1100,0
+C0273,Project Management,Workshop,990,0
+C0274,Finance,Workshop,890,0
+C0274,Logistics,Workshop,990,0
+C0274,Legal & Compliance,Seminar,650,0
+C0274,Finance,Seminar,1100,0
+C0274,Legal & Compliance,E-Learning,490,1
+C0274,HR Management,Congress,1490,0
+C0274,Finance,Congress,299,0
+C0274,SAP S/4HANA,Workshop,490,0
+C0274,Supply Chain,Workshop,990,0
+C0275,Marketing,E-Learning,1100,1
+C0275,HR Management,E-Learning,990,0
+C0275,Finance,Workshop,1490,0
+C0275,Supply Chain,Workshop,1100,0
+C0275,Finance,Congress,1100,1
+C0276,Project Management,Congress,890,0
+C0276,SAP S/4HANA,E-Learning,490,0
+C0276,Leadership,Seminar,1100,0
+C0276,Marketing,Congress,1490,0
+C0276,Logistics,Congress,790,0
+C0276,Marketing,E-Learning,1490,0
+C0276,HR Management,E-Learning,890,0
+C0276,SAP S/4HANA,Workshop,790,0
+C0277,Finance,Workshop,490,0
+C0277,Marketing,Congress,1290,0
+C0277,HR Management,Seminar,890,0
+C0277,Leadership,E-Learning,1290,0
+C0277,Finance,Workshop,490,0
+C0277,SAP S/4HANA,Seminar,890,0
+C0278,IT & Digitalisation,Workshop,650,1
+C0278,Project Management,Seminar,890,0
+C0278,Marketing,E-Learning,299,0
+C0279,SAP S/4HANA,Congress,650,0
+C0279,Logistics,Congress,1490,0
+C0279,IT & Digitalisation,E-Learning,890,0
+C0279,Leadership,E-Learning,650,0
+C0279,Project Management,E-Learning,990,0
+C0279,Marketing,E-Learning,650,0
+C0279,Supply Chain,Congress,1490,1
+C0280,Marketing,Workshop,490,0
+C0280,Project Management,Seminar,1290,0
+C0280,Finance,E-Learning,650,0
+C0280,Logistics,E-Learning,650,0
+C0281,Project Management,Congress,790,0
+C0281,Project Management,Congress,650,0
+C0281,Marketing,Seminar,490,0
+C0281,Legal & Compliance,Workshop,299,0
+C0281,Leadership,Seminar,1490,0
+C0281,Legal & Compliance,Seminar,890,0
+C0281,Leadership,E-Learning,299,0
+C0281,Leadership,Congress,790,1
+C0281,IT & Digitalisation,Seminar,490,0
+C0282,IT & Digitalisation,Congress,1490,0
+C0282,SAP S/4HANA,Seminar,490,0
+C0282,SAP S/4HANA,Congress,790,0
+C0283,Leadership,Congress,1490,0
+C0283,IT & Digitalisation,Congress,1290,1
+C0283,Project Management,E-Learning,1100,0
+C0283,Supply Chain,Congress,1100,0
+C0283,IT & Digitalisation,Seminar,1290,0
+C0283,SAP S/4HANA,Congress,1290,0
+C0284,Leadership,E-Learning,1290,0
+C0284,Marketing,E-Learning,1290,0
+C0284,Legal & Compliance,Congress,1490,1
+C0285,Leadership,Workshop,990,0
+C0285,HR Management,Workshop,490,0
+C0286,Leadership,Congress,1100,0
+C0286,Logistics,Seminar,650,0
+C0286,IT & Digitalisation,Congress,990,0
+C0286,Logistics,Workshop,490,1
+C0286,Marketing,Workshop,890,0
+C0286,Marketing,E-Learning,1290,0
+C0286,Legal & Compliance,E-Learning,650,0
+C0287,Legal & Compliance,Workshop,790,0
+C0287,HR Management,Seminar,299,0
+C0287,Legal & Compliance,Seminar,650,0
+C0287,Logistics,E-Learning,650,1
+C0289,Legal & Compliance,Congress,890,0
+C0289,Legal & Compliance,E-Learning,1490,0
+C0289,SAP S/4HANA,Seminar,299,1
+C0289,Leadership,Workshop,1290,0
+C0289,Marketing,Workshop,1290,0
+C0289,HR Management,Congress,1490,0
+C0290,Project Management,E-Learning,1100,0
+C0290,Leadership,Workshop,1490,0
+C0290,Legal & Compliance,Congress,1490,0
+C0291,Logistics,Workshop,990,0
+C0291,IT & Digitalisation,Seminar,299,0
+C0291,Project Management,E-Learning,990,0
+C0291,IT & Digitalisation,Workshop,490,0
+C0291,IT & Digitalisation,E-Learning,1100,0
+C0293,Leadership,E-Learning,490,0
+C0293,Project Management,Seminar,1490,0
+C0293,HR Management,Workshop,1100,0
+C0293,Finance,Seminar,1290,0
+C0293,IT & Digitalisation,Workshop,1100,0
+C0293,Logistics,Seminar,1290,1
+C0293,Supply Chain,E-Learning,1290,0
+C0293,Project Management,E-Learning,990,0
+C0293,Supply Chain,Workshop,490,0
+C0294,Finance,Workshop,790,0
+C0294,Logistics,Seminar,990,0
+C0295,Marketing,Congress,990,0
+C0296,Marketing,E-Learning,790,0
+C0297,SAP S/4HANA,Congress,299,0
+C0297,Logistics,Workshop,790,0
+C0297,Finance,Workshop,299,0
+C0297,IT & Digitalisation,Workshop,650,0
+C0297,Project Management,E-Learning,1100,0
+C0297,IT & Digitalisation,Seminar,790,0
+C0297,Finance,E-Learning,650,0
+C0297,Logistics,Congress,1100,1
+C0298,HR Management,Congress,890,0
+C0298,Legal & Compliance,Workshop,1100,0
+C0299,Project Management,Seminar,890,1
+C0299,SAP S/4HANA,Congress,299,0
+C0299,HR Management,Seminar,490,0
+C0299,Logistics,E-Learning,490,0
+C0300,Project Management,Congress,490,0
+C0300,SAP S/4HANA,E-Learning,1290,0
+C0300,Supply Chain,Seminar,990,0
+C0300,Logistics,Workshop,790,0
+C0300,Supply Chain,Congress,490,0
+C0300,Supply Chain,E-Learning,1290,0
+C0300,Finance,Seminar,1290,0
+C0300,Leadership,E-Learning,1490,1
+C0300,Legal & Compliance,Congress,890,1
+C0300,IT & Digitalisation,Workshop,990,0
+C0300,HR Management,Seminar,299,0
+C0301,Finance,E-Learning,490,0
+C0301,Legal & Compliance,Workshop,299,1
+C0302,Supply Chain,E-Learning,790,1
+C0302,Legal & Compliance,E-Learning,1100,0
+C0302,Finance,Seminar,1290,1
+C0302,Marketing,E-Learning,1100,0
+C0302,Project Management,E-Learning,1490,0
+C0302,IT & Digitalisation,Workshop,1490,0
+C0302,Legal & Compliance,Seminar,299,0
+C0302,Legal & Compliance,Congress,299,0
+C0303,Logistics,Seminar,490,0
+C0303,Supply Chain,Congress,1100,0
+C0305,Finance,Congress,490,0
+C0305,IT & Digitalisation,Congress,1100,0
+C0305,Logistics,Congress,299,0
+C0306,Leadership,Workshop,790,0
+C0306,Project Management,Seminar,1100,0
+C0306,Logistics,E-Learning,650,0
+C0306,IT & Digitalisation,Congress,490,0
+C0306,SAP S/4HANA,Workshop,1290,0
+C0306,Leadership,Congress,790,0
+C0306,Finance,E-Learning,1290,0
+C0306,Project Management,Workshop,790,1
+C0306,Finance,Congress,1100,0
+C0306,Marketing,Congress,299,0
+C0306,Finance,Congress,1290,0
+C0307,Leadership,Seminar,1290,0
+C0307,IT & Digitalisation,Workshop,790,0
+C0307,Marketing,E-Learning,490,0
+C0307,SAP S/4HANA,Seminar,299,0
+C0308,Logistics,Seminar,299,1
+C0308,SAP S/4HANA,Workshop,890,0
+C0308,IT & Digitalisation,Congress,1490,0
+C0308,Logistics,Congress,890,0
+C0309,Legal & Compliance,Congress,490,0
+C0309,SAP S/4HANA,Workshop,650,0
+C0309,Leadership,E-Learning,299,0
+C0309,Legal & Compliance,E-Learning,990,0
+C0309,Finance,E-Learning,890,1
+C0309,Marketing,Congress,990,1
+C0310,HR Management,Congress,650,0
+C0310,Supply Chain,Congress,299,0
+C0310,Finance,Congress,1290,0
+C0311,Legal & Compliance,E-Learning,1490,0
+C0311,Legal & Compliance,Workshop,490,1
+C0311,Leadership,E-Learning,490,0
+C0311,Finance,Congress,650,0
+C0312,Logistics,Seminar,1490,0
+C0312,Marketing,Seminar,790,0
+C0312,Leadership,E-Learning,299,0
+C0313,Logistics,Seminar,990,0
+C0313,HR Management,Seminar,1290,0
+C0313,Legal & Compliance,E-Learning,299,0
+C0315,Supply Chain,Seminar,890,1
+C0315,HR Management,Seminar,1490,0
+C0315,Leadership,Workshop,890,0
+C0315,Supply Chain,Workshop,490,0
+C0315,Supply Chain,Congress,1100,1
+C0315,Finance,Congress,490,1
+C0315,Legal & Compliance,Workshop,890,0
+C0315,IT & Digitalisation,Seminar,990,0
+C0316,Legal & Compliance,E-Learning,1100,0
+C0316,Marketing,E-Learning,650,0
+C0316,Marketing,Seminar,299,0
+C0316,Legal & Compliance,Congress,650,0
+C0316,SAP S/4HANA,Seminar,890,0
+C0316,Marketing,Seminar,1290,0
+C0316,Project Management,Congress,890,1
+C0317,Logistics,Seminar,1490,0
+C0317,HR Management,Seminar,1490,1
+C0317,Marketing,Seminar,1290,0
+C0317,IT & Digitalisation,E-Learning,490,0
+C0317,Leadership,Workshop,650,1
+C0317,Marketing,Seminar,490,1
+C0317,Finance,E-Learning,1290,0
+C0319,Leadership,E-Learning,490,1
+C0319,SAP S/4HANA,Seminar,299,1
+C0320,Legal & Compliance,Workshop,1100,0
+C0320,Finance,E-Learning,1100,0
+C0320,Leadership,Congress,650,0
+C0320,Supply Chain,Seminar,299,0
+C0321,Project Management,Congress,1100,0
+C0321,Leadership,E-Learning,1290,0
+C0321,Legal & Compliance,Workshop,299,0
+C0322,Legal & Compliance,Workshop,299,0
+C0322,Logistics,Congress,790,0
+C0322,Logistics,Workshop,299,0
+C0322,HR Management,Seminar,1100,1
+C0322,Legal & Compliance,E-Learning,299,0
+C0322,Marketing,Workshop,1490,1
+C0322,Supply Chain,Seminar,1490,0
+C0322,Marketing,E-Learning,1490,0
+C0322,Finance,Workshop,1290,0
+C0322,Legal & Compliance,E-Learning,1290,0
+C0323,Supply Chain,Workshop,990,0
+C0323,Supply Chain,Congress,990,0
+C0323,Project Management,E-Learning,1100,0
+C0323,IT & Digitalisation,Workshop,650,0
+C0323,Finance,Seminar,1290,0
+C0323,Project Management,Congress,650,0
+C0323,Leadership,Workshop,1290,0
+C0323,Supply Chain,Congress,1490,1
+C0324,IT & Digitalisation,Congress,650,0
+C0325,Leadership,Congress,490,0
+C0325,Legal & Compliance,E-Learning,990,0
+C0325,HR Management,E-Learning,650,0
+C0326,Leadership,Seminar,490,0
+C0326,SAP S/4HANA,Seminar,650,0
+C0326,Supply Chain,E-Learning,650,0
+C0326,Legal & Compliance,Workshop,490,0
+C0327,Leadership,Congress,1290,0
+C0327,HR Management,Congress,1290,0
+C0327,Finance,Congress,490,1
+C0327,IT & Digitalisation,Workshop,990,0
+C0327,Project Management,Workshop,790,0
+C0327,Marketing,Workshop,1100,0
+C0327,SAP S/4HANA,E-Learning,299,0
+C0327,Project Management,Seminar,1490,0
+C0327,Leadership,E-Learning,990,0
+C0328,Marketing,Seminar,650,0
+C0328,SAP S/4HANA,E-Learning,1100,0
+C0328,SAP S/4HANA,E-Learning,990,1
+C0328,HR Management,E-Learning,1490,0
+C0329,SAP S/4HANA,Workshop,990,0
+C0329,Supply Chain,E-Learning,490,0
+C0329,SAP S/4HANA,E-Learning,1100,0
+C0329,SAP S/4HANA,E-Learning,790,0
+C0329,SAP S/4HANA,E-Learning,1490,0
+C0329,Project Management,Seminar,299,0
+C0329,Supply Chain,E-Learning,1100,0
+C0329,HR Management,E-Learning,890,0
+C0329,Leadership,Seminar,490,0
+C0330,Legal & Compliance,E-Learning,790,0
+C0330,IT & Digitalisation,E-Learning,890,1
+C0330,Marketing,Congress,490,0
+C0330,SAP S/4HANA,Congress,990,0
+C0330,Leadership,Congress,1100,0
+C0330,Leadership,Seminar,299,0
+C0331,Legal & Compliance,Seminar,990,1
+C0332,Finance,Workshop,1100,0
+C0332,Legal & Compliance,Workshop,650,0
+C0332,SAP S/4HANA,Congress,1290,0
+C0332,Project Management,Seminar,790,0
+C0333,SAP S/4HANA,E-Learning,490,0
+C0333,Leadership,Seminar,990,0
+C0333,HR Management,Congress,490,0
+C0333,Finance,E-Learning,890,0
+C0333,Legal & Compliance,Seminar,650,0
+C0333,Logistics,Workshop,299,1
+C0333,Finance,Congress,650,0
+C0334,Leadership,Seminar,1100,0
+C0334,Logistics,E-Learning,1290,0
+C0334,Marketing,Workshop,650,0
+C0334,SAP S/4HANA,Workshop,1290,0
+C0334,Project Management,E-Learning,490,0
+C0334,Marketing,Congress,1100,0
+C0335,Finance,Seminar,650,0
+C0335,Logistics,E-Learning,1490,0
+C0335,SAP S/4HANA,Seminar,790,1
+C0335,Logistics,Congress,1290,0
+C0335,Leadership,Congress,299,0
+C0335,Supply Chain,Congress,1290,0
+C0335,SAP S/4HANA,E-Learning,1100,0
+C0335,Legal & Compliance,Seminar,990,0
+C0335,Project Management,Workshop,299,0
+C0335,Marketing,E-Learning,490,0
+C0335,Leadership,Congress,890,0
+C0336,Project Management,E-Learning,1100,0
+C0336,HR Management,E-Learning,650,1
+C0336,HR Management,E-Learning,1100,0
+C0336,IT & Digitalisation,Congress,1100,1
+C0336,Finance,Workshop,490,0
+C0336,Supply Chain,Congress,790,0
+C0336,SAP S/4HANA,Workshop,490,0
+C0336,HR Management,E-Learning,1290,0
+C0337,Marketing,Congress,299,0
+C0337,SAP S/4HANA,Seminar,790,0
+C0337,Finance,Workshop,1290,0
+C0337,SAP S/4HANA,Congress,650,0
+C0337,SAP S/4HANA,Congress,790,0
+C0337,SAP S/4HANA,Workshop,299,0
+C0337,Legal & Compliance,E-Learning,650,0
+C0337,HR Management,Workshop,890,0
+C0337,Marketing,E-Learning,790,0
+C0337,HR Management,Congress,1490,0
+C0338,Leadership,Congress,1490,0
+C0338,Marketing,Congress,1490,0
+C0338,IT & Digitalisation,E-Learning,1290,1
+C0338,Supply Chain,E-Learning,990,0
+C0338,Legal & Compliance,E-Learning,299,0
+C0339,HR Management,Seminar,650,0
+C0339,SAP S/4HANA,Workshop,1100,0
+C0339,Leadership,Seminar,1290,0
+C0339,IT & Digitalisation,Workshop,990,0
+C0339,Project Management,Seminar,490,0
+C0339,IT & Digitalisation,Congress,1290,1
+C0339,Supply Chain,Seminar,890,0
+C0339,Supply Chain,Seminar,890,0
+C0340,HR Management,E-Learning,1290,0
+C0340,HR Management,Congress,1100,0
+C0340,Finance,Workshop,650,0
+C0340,Logistics,Congress,490,0
+C0340,Leadership,Congress,890,0
+C0340,SAP S/4HANA,E-Learning,790,0
+C0340,SAP S/4HANA,E-Learning,1490,1
+C0341,IT & Digitalisation,Workshop,1100,0
+C0341,Leadership,Workshop,1290,0
+C0341,SAP S/4HANA,Seminar,790,0
+C0341,Finance,Workshop,1490,0
+C0341,IT & Digitalisation,Seminar,1100,0
+C0342,Supply Chain,Workshop,490,0
+C0342,Supply Chain,Congress,990,0
+C0343,Legal & Compliance,Workshop,299,0
+C0343,Finance,Congress,490,0
+C0343,Supply Chain,E-Learning,299,0
+C0343,SAP S/4HANA,Congress,490,1
+C0343,Leadership,Workshop,490,0
+C0343,HR Management,Seminar,1100,0
+C0344,Legal & Compliance,Seminar,890,0
+C0344,Leadership,Seminar,299,0
+C0344,Finance,Workshop,1100,0
+C0344,Logistics,Workshop,790,0
+C0344,Legal & Compliance,Workshop,1290,0
+C0344,Logistics,Seminar,990,1
+C0344,Legal & Compliance,E-Learning,790,0
+C0344,Leadership,Seminar,490,0
+C0345,IT & Digitalisation,Workshop,1290,0
+C0345,Project Management,Congress,650,0
+C0345,HR Management,Congress,890,0
+C0345,SAP S/4HANA,E-Learning,890,0
+C0345,Project Management,Workshop,890,0
+C0345,Finance,E-Learning,299,0
+C0345,HR Management,Congress,1490,0
+C0345,Marketing,E-Learning,790,0
+C0345,Supply Chain,Seminar,990,0
+C0345,Legal & Compliance,Workshop,990,0
+C0346,IT & Digitalisation,Congress,490,0
+C0346,HR Management,Workshop,790,0
+C0346,Supply Chain,Congress,1290,0
+C0346,Supply Chain,Workshop,990,0
+C0346,Supply Chain,Workshop,650,0
+C0346,IT & Digitalisation,Seminar,490,0
+C0346,HR Management,Seminar,650,0
+C0346,Legal & Compliance,Congress,990,0
+C0346,HR Management,Congress,790,0
+C0346,Project Management,Congress,890,0
+C0347,Project Management,Congress,299,0
+C0347,Finance,Seminar,299,1
+C0347,Marketing,Seminar,990,0
+C0347,Finance,Workshop,790,0
+C0347,IT & Digitalisation,Congress,1490,0
+C0348,Project Management,Congress,790,0
+C0348,IT & Digitalisation,E-Learning,1100,0
+C0348,HR Management,Congress,1490,0
+C0349,HR Management,E-Learning,650,0
+C0349,Supply Chain,Seminar,1290,0
+C0349,Project Management,Workshop,1490,0
+C0349,Legal & Compliance,Workshop,650,1
+C0349,IT & Digitalisation,Workshop,1290,0
+C0349,Finance,Workshop,299,1
+C0349,Supply Chain,Congress,1290,1
+C0349,Marketing,Congress,890,0
+C0349,Marketing,Congress,990,0
+C0349,SAP S/4HANA,Seminar,650,0
+C0349,Finance,Workshop,1490,0
+C0350,Legal & Compliance,E-Learning,1100,0
+C0350,Legal & Compliance,Workshop,1100,0
+C0350,Legal & Compliance,E-Learning,890,0
+C0350,HR Management,Congress,1290,0
+C0350,Finance,Seminar,990,0
+C0351,Finance,Congress,490,1
+C0351,Leadership,E-Learning,299,0
+C0351,IT & Digitalisation,Congress,990,0
+C0351,Finance,E-Learning,790,0
+C0351,SAP S/4HANA,E-Learning,299,0
+C0351,Finance,E-Learning,1100,0
+C0351,Logistics,Seminar,1290,0
+C0351,Marketing,Congress,790,1
+C0351,Legal & Compliance,Congress,1490,0
+C0351,Legal & Compliance,E-Learning,490,0
+C0352,Supply Chain,Workshop,1290,0
+C0352,IT & Digitalisation,Congress,650,0
+C0352,HR Management,Workshop,990,0
+C0352,Supply Chain,Workshop,1100,0
+C0352,SAP S/4HANA,E-Learning,990,0
+C0352,Logistics,Seminar,650,0
+C0353,Marketing,Congress,1100,0
+C0353,SAP S/4HANA,Workshop,790,0
+C0353,Leadership,E-Learning,1290,0
+C0353,Leadership,Congress,490,0
+C0354,HR Management,Congress,790,0
+C0354,Marketing,E-Learning,790,0
+C0354,Finance,Seminar,1290,0
+C0354,IT & Digitalisation,Seminar,650,1
+C0354,Marketing,Workshop,650,0
+C0354,Project Management,Workshop,1290,0
+C0354,Marketing,Congress,650,1
+C0354,Finance,Workshop,1290,0
+C0357,Project Management,Workshop,490,1
+C0357,Logistics,Congress,1490,0
+C0357,Logistics,Workshop,1290,0
+C0357,Logistics,Seminar,490,1
+C0357,Legal & Compliance,E-Learning,890,0
+C0357,Logistics,Congress,1100,0
+C0357,Project Management,Workshop,1290,1
+C0358,Marketing,Seminar,790,0
+C0358,Finance,E-Learning,490,0
+C0358,Legal & Compliance,Workshop,1490,1
+C0358,IT & Digitalisation,Seminar,490,0
+C0358,Marketing,Workshop,650,0
+C0359,Legal & Compliance,Seminar,490,0
+C0359,Marketing,E-Learning,1100,0
+C0359,Marketing,Seminar,299,0
+C0359,Leadership,Congress,990,0
+C0359,Legal & Compliance,Workshop,490,1
+C0359,SAP S/4HANA,Congress,1290,0
+C0359,Legal & Compliance,E-Learning,650,0
+C0359,HR Management,Seminar,650,0
+C0359,Leadership,Workshop,650,1
+C0361,Supply Chain,Seminar,1490,0
+C0361,Legal & Compliance,Seminar,1490,0
+C0361,Marketing,E-Learning,1290,0
+C0361,Logistics,Seminar,299,0
+C0361,Supply Chain,Congress,990,1
+C0361,Supply Chain,Seminar,299,0
+C0362,Supply Chain,Seminar,790,0
+C0362,Project Management,Congress,299,0
+C0362,SAP S/4HANA,Seminar,990,0
+C0362,SAP S/4HANA,Congress,790,0
+C0362,Marketing,Seminar,790,0
+C0364,IT & Digitalisation,Seminar,1100,1
+C0365,Finance,E-Learning,299,0
+C0365,Supply Chain,Workshop,890,0
+C0366,Finance,Seminar,990,0
+C0366,Project Management,E-Learning,650,0
+C0366,Legal & Compliance,Seminar,990,0
+C0367,Marketing,Congress,1490,0
+C0367,Supply Chain,Seminar,490,0
+C0367,Supply Chain,Workshop,790,0
+C0367,HR Management,Congress,990,1
+C0367,Finance,Congress,650,0
+C0367,Supply Chain,Seminar,790,0
+C0367,IT & Digitalisation,Congress,890,0
+C0367,HR Management,Workshop,890,0
+C0367,Supply Chain,E-Learning,990,0
+C0367,Supply Chain,Seminar,790,0
+C0368,Project Management,Workshop,299,0
+C0368,Legal & Compliance,Seminar,790,0
+C0368,Project Management,Congress,650,0
+C0368,Project Management,Congress,790,0
+C0368,Marketing,Workshop,890,0
+C0368,Supply Chain,Congress,1100,0
+C0368,Logistics,Congress,890,0
+C0369,Finance,Workshop,490,0
+C0369,Marketing,Workshop,650,0
+C0369,Legal & Compliance,Workshop,1490,0
+C0369,Project Management,Workshop,299,0
+C0369,Marketing,Seminar,890,0
+C0369,SAP S/4HANA,Congress,890,0
+C0369,Legal & Compliance,E-Learning,1290,0
+C0369,Marketing,Workshop,490,0
+C0369,Project Management,Workshop,790,0
+C0369,Supply Chain,Seminar,299,1
+C0370,Marketing,E-Learning,1100,0
+C0370,Finance,Seminar,1100,0
+C0370,Leadership,Workshop,650,0
+C0370,Marketing,E-Learning,990,0
+C0370,IT & Digitalisation,Seminar,1100,0
+C0370,Supply Chain,Congress,1290,0
+C0370,IT & Digitalisation,Seminar,650,0
+C0370,Logistics,Workshop,650,0
+C0371,HR Management,Seminar,490,0
+C0371,Marketing,Seminar,1490,0
+C0371,Marketing,Congress,1100,0
+C0371,Finance,Workshop,890,0
+C0371,Leadership,Seminar,990,1
+C0372,Finance,Seminar,650,0
+C0372,HR Management,Seminar,490,0
+C0372,SAP S/4HANA,Workshop,890,1
+C0373,Project Management,Congress,790,0
+C0373,Project Management,Seminar,1290,0
+C0373,Project Management,Congress,299,0
+C0373,Supply Chain,E-Learning,1100,0
+C0374,Leadership,E-Learning,490,0
+C0374,Leadership,E-Learning,490,0
+C0374,HR Management,Congress,1290,0
+C0374,Leadership,Seminar,299,0
+C0374,HR Management,Seminar,490,0
+C0375,Logistics,E-Learning,1290,0
+C0375,IT & Digitalisation,Workshop,990,0
+C0375,IT & Digitalisation,E-Learning,790,0
+C0375,Marketing,Workshop,299,0
+C0376,Legal & Compliance,Workshop,650,1
+C0376,Logistics,Seminar,1490,1
+C0376,Supply Chain,E-Learning,1290,0
+C0376,SAP S/4HANA,Workshop,790,0
+C0377,HR Management,E-Learning,1290,0
+C0378,Logistics,Seminar,990,0
+C0379,Finance,Congress,650,0
+C0379,Project Management,Workshop,490,0
+C0379,SAP S/4HANA,Workshop,650,0
+C0379,Leadership,Workshop,1490,0
+C0379,Supply Chain,Congress,650,0
+C0379,Leadership,Workshop,299,0
+C0379,IT & Digitalisation,Workshop,890,1
+C0379,Finance,Workshop,490,0
+C0380,IT & Digitalisation,Congress,490,0
+C0381,Supply Chain,Congress,890,1
+C0381,Finance,Seminar,490,0
+C0381,IT & Digitalisation,Congress,490,0
+C0381,Project Management,E-Learning,1100,0
+C0381,Finance,Seminar,1490,0
+C0381,Marketing,Workshop,990,1
+C0381,Project Management,Congress,490,1
+C0382,IT & Digitalisation,Congress,890,0
+C0382,Legal & Compliance,Workshop,650,0
+C0383,Finance,Seminar,890,0
+C0383,Supply Chain,Workshop,890,1
+C0383,HR Management,E-Learning,650,0
+C0383,Supply Chain,Seminar,650,0
+C0383,Marketing,E-Learning,650,0
+C0384,Marketing,Workshop,990,0
+C0384,Marketing,Seminar,1490,0
+C0384,Finance,Congress,1490,0
+C0385,Logistics,Seminar,890,0
+C0386,Legal & Compliance,Workshop,890,0
+C0386,Supply Chain,Congress,790,0
+C0386,IT & Digitalisation,Seminar,650,1
+C0386,Marketing,Congress,299,0
+C0386,IT & Digitalisation,Workshop,650,0
+C0387,Logistics,Workshop,650,0
+C0387,Supply Chain,Seminar,490,0
+C0387,Marketing,Workshop,890,0
+C0388,Marketing,E-Learning,1290,0
+C0388,HR Management,Seminar,490,1
+C0388,Leadership,Workshop,1490,0
+C0388,HR Management,Workshop,890,0
+C0388,Logistics,Congress,1100,1
+C0388,Marketing,E-Learning,650,0
+C0388,IT & Digitalisation,Seminar,1490,0
+C0388,Marketing,Seminar,1100,0
+C0388,Leadership,Seminar,790,0
+C0388,Project Management,Congress,299,0
+C0389,Project Management,Congress,650,0
+C0389,SAP S/4HANA,E-Learning,299,0
+C0389,Leadership,E-Learning,990,0
+C0390,Finance,Seminar,1490,0
+C0390,SAP S/4HANA,Workshop,650,0
+C0390,IT & Digitalisation,E-Learning,1490,0
+C0390,Leadership,Seminar,790,1
+C0390,Supply Chain,Congress,890,0
+C0390,Project Management,Congress,990,0
+C0390,Project Management,Workshop,490,1
+C0390,Finance,Workshop,650,0
+C0390,Legal & Compliance,Seminar,890,1
+C0390,Project Management,Congress,490,0
+C0390,Supply Chain,E-Learning,1490,0
+C0391,Marketing,Workshop,299,1
+C0391,Leadership,E-Learning,490,0
+C0391,SAP S/4HANA,Workshop,490,0
+C0391,Leadership,E-Learning,990,0
+C0391,Project Management,Congress,890,1
+C0391,Leadership,Workshop,790,0
+C0391,Leadership,Seminar,650,0
+C0391,Logistics,Workshop,490,1
+C0391,Logistics,E-Learning,1490,0
+C0391,Logistics,Seminar,299,0
+C0392,IT & Digitalisation,Workshop,1290,0
+C0392,Finance,Seminar,1490,0
+C0392,Project Management,Congress,1100,0
+C0392,HR Management,E-Learning,790,0
+C0392,Legal & Compliance,Congress,1290,0
+C0392,Legal & Compliance,E-Learning,890,0
+C0393,Leadership,E-Learning,1100,0
+C0393,Leadership,Seminar,490,1
+C0393,Leadership,Congress,299,0
+C0393,Finance,Workshop,299,0
+C0395,Marketing,Seminar,790,1
+C0395,Marketing,E-Learning,790,0
+C0395,Logistics,Workshop,650,0
+C0395,Project Management,Seminar,990,0
+C0396,Marketing,Workshop,1100,0
+C0396,IT & Digitalisation,Seminar,990,1
+C0396,SAP S/4HANA,Seminar,890,0
+C0396,Legal & Compliance,E-Learning,890,1
+C0396,HR Management,Workshop,790,0
+C0396,SAP S/4HANA,Seminar,1290,0
+C0396,HR Management,E-Learning,299,0
+C0397,Leadership,Seminar,990,0
+C0397,Marketing,E-Learning,299,0
+C0398,Leadership,Congress,1100,0
+C0398,Legal & Compliance,Seminar,650,0
+C0398,Supply Chain,Workshop,1100,0
+C0398,Finance,E-Learning,1100,0
+C0398,SAP S/4HANA,E-Learning,490,0
+C0398,Legal & Compliance,Congress,650,0
+C0398,Marketing,Seminar,990,0
+C0399,HR Management,Congress,1100,0
+C0399,IT & Digitalisation,Seminar,650,0
+C0399,Legal & Compliance,E-Learning,490,0
+C0399,Legal & Compliance,Workshop,650,0
+C0399,Marketing,Workshop,650,0
+C0399,Leadership,Seminar,650,0
+C0399,IT & Digitalisation,Seminar,790,0
+C0399,IT & Digitalisation,Workshop,299,1
+C0399,Legal & Compliance,E-Learning,890,0
+C0399,Leadership,Workshop,790,0
+C0399,SAP S/4HANA,Congress,790,0
+C0400,Marketing,Congress,1290,0
+C0400,SAP S/4HANA,Congress,790,0
+C0400,Supply Chain,Seminar,650,0
+C0400,HR Management,E-Learning,790,0
+C0400,Marketing,Seminar,790,0
+C0400,HR Management,Workshop,1100,0
+C0400,Supply Chain,Congress,990,0
+C0400,Legal & Compliance,Seminar,1490,0
+C0400,HR Management,E-Learning,490,0
+C0402,HR Management,Congress,299,0
+C0402,HR Management,E-Learning,790,1
+C0402,Legal & Compliance,E-Learning,490,0
+C0402,Project Management,E-Learning,1290,0
+C0402,IT & Digitalisation,E-Learning,490,0
+C0403,IT & Digitalisation,E-Learning,990,0
+C0403,Supply Chain,E-Learning,790,0
+C0403,Leadership,Seminar,650,0
+C0403,HR Management,Congress,790,0
+C0403,Leadership,Seminar,1490,0
+C0403,Finance,Workshop,790,0
+C0404,Marketing,E-Learning,1490,0
+C0404,IT & Digitalisation,Workshop,490,0
+C0404,Leadership,Workshop,1100,0
+C0404,Project Management,E-Learning,650,0
+C0405,Supply Chain,Workshop,1290,0
+C0405,Project Management,Workshop,1490,0
+C0405,SAP S/4HANA,Workshop,1100,0
+C0405,Supply Chain,Congress,299,0
+C0405,Logistics,Congress,299,0
+C0405,SAP S/4HANA,E-Learning,890,0
+C0407,SAP S/4HANA,Congress,890,0
+C0407,Project Management,E-Learning,650,0
+C0407,HR Management,Congress,790,0
+C0407,HR Management,E-Learning,990,0
+C0407,Leadership,E-Learning,650,0
+C0407,Logistics,E-Learning,990,0
+C0407,HR Management,E-Learning,790,0
+C0408,SAP S/4HANA,Seminar,1100,0
+C0408,Logistics,Congress,1290,0
+C0408,IT & Digitalisation,E-Learning,790,0
+C0408,Project Management,Workshop,790,1
+C0408,IT & Digitalisation,Congress,1290,0
+C0408,Legal & Compliance,Congress,1290,0
+C0410,Finance,Congress,650,0
+C0410,Logistics,Congress,490,1
+C0410,Leadership,Workshop,790,0
+C0411,HR Management,Seminar,1100,0
+C0411,HR Management,Seminar,299,0
+C0411,Project Management,Congress,490,0
+C0412,HR Management,Seminar,1490,0
+C0412,Leadership,Congress,650,0
+C0412,Logistics,Workshop,650,0
+C0413,Supply Chain,Seminar,1490,0
+C0413,SAP S/4HANA,Seminar,299,0
+C0413,Leadership,E-Learning,490,0
+C0413,Project Management,Seminar,790,0
+C0413,Supply Chain,Workshop,1100,0
+C0413,IT & Digitalisation,E-Learning,790,1
+C0413,Leadership,Workshop,650,0
+C0413,Supply Chain,Seminar,890,0
+C0414,Leadership,E-Learning,490,0
+C0414,Logistics,Congress,650,0
+C0414,SAP S/4HANA,E-Learning,650,0
+C0414,Project Management,E-Learning,890,0
+C0414,Leadership,E-Learning,1290,0
+C0414,Finance,Seminar,299,0
+C0414,Project Management,E-Learning,650,0
+C0414,Legal & Compliance,Workshop,490,0
+C0415,Project Management,Seminar,990,0
+C0415,Project Management,Workshop,990,0
+C0415,Legal & Compliance,Workshop,1290,0
+C0415,Logistics,E-Learning,650,0
+C0415,Marketing,Workshop,1490,1
+C0415,SAP S/4HANA,Workshop,1490,0
+C0415,Marketing,Seminar,1100,0
+C0415,Leadership,Congress,990,0
+C0416,SAP S/4HANA,Workshop,650,0
+C0416,HR Management,E-Learning,990,1
+C0416,Finance,Workshop,650,0
+C0416,Supply Chain,Congress,790,0
+C0416,Project Management,Seminar,650,0
+C0416,HR Management,Workshop,990,1
+C0417,Legal & Compliance,Congress,299,0
+C0417,IT & Digitalisation,Congress,490,0
+C0417,Leadership,Seminar,1100,0
+C0417,Project Management,Workshop,650,0
+C0417,Legal & Compliance,Workshop,990,0
+C0417,HR Management,E-Learning,490,0
+C0417,HR Management,Seminar,650,0
+C0417,HR Management,Workshop,1100,0
+C0418,Supply Chain,Workshop,650,0
+C0418,Leadership,Workshop,650,1
+C0418,Marketing,Seminar,790,0
+C0418,Project Management,Seminar,1290,1
+C0418,IT & Digitalisation,Workshop,1100,0
+C0418,HR Management,E-Learning,1100,0
+C0418,Finance,Seminar,490,0
+C0419,HR Management,Congress,890,0
+C0419,SAP S/4HANA,Seminar,490,0
+C0419,Logistics,Seminar,890,0
+C0419,SAP S/4HANA,Congress,299,0
+C0419,Finance,Seminar,299,1
+C0419,HR Management,Seminar,990,1
+C0419,Finance,Seminar,990,0
+C0419,Marketing,Congress,990,0
+C0419,IT & Digitalisation,Congress,490,0
+C0419,Marketing,Seminar,1490,1
+C0419,HR Management,Workshop,1290,0
+C0422,Project Management,E-Learning,1290,0
+C0422,IT & Digitalisation,E-Learning,990,0
+C0422,HR Management,Workshop,790,0
+C0422,Logistics,Seminar,650,0
+C0422,Leadership,Seminar,650,0
+C0423,Leadership,Workshop,990,0
+C0423,Finance,Congress,490,0
+C0423,Logistics,E-Learning,990,0
+C0424,Finance,Workshop,890,0
+C0424,Project Management,Seminar,1290,0
+C0424,IT & Digitalisation,E-Learning,1100,0
+C0424,Logistics,Congress,1290,1
+C0424,SAP S/4HANA,E-Learning,990,1
+C0424,Marketing,Workshop,890,0
+C0424,Logistics,Seminar,790,0
+C0425,Marketing,Congress,1100,0
+C0426,Leadership,E-Learning,1290,0
+C0426,SAP S/4HANA,Workshop,490,0
+C0426,Project Management,Seminar,1100,1
+C0426,Supply Chain,Workshop,990,0
+C0427,Supply Chain,Workshop,490,0
+C0427,Legal & Compliance,Seminar,1490,0
+C0427,Legal & Compliance,Congress,790,0
+C0427,Logistics,Seminar,1100,0
+C0428,Supply Chain,Seminar,790,0
+C0428,Marketing,E-Learning,890,0
+C0428,Leadership,Congress,490,0
+C0428,Marketing,Seminar,890,0
+C0428,Marketing,Congress,890,0
+C0428,HR Management,Seminar,1100,0
+C0428,Finance,Congress,790,0
+C0428,Marketing,Workshop,1290,0
+C0428,Marketing,E-Learning,1100,0
+C0428,SAP S/4HANA,Congress,490,0
+C0429,Project Management,Workshop,650,0
+C0429,IT & Digitalisation,Seminar,1100,0
+C0430,Project Management,Workshop,490,0
+C0430,Supply Chain,Congress,1100,0
+C0431,IT & Digitalisation,Congress,790,0
+C0431,IT & Digitalisation,E-Learning,299,0
+C0431,Finance,Seminar,1290,0
+C0431,Marketing,Workshop,990,0
+C0431,SAP S/4HANA,Workshop,1490,0
+C0431,Leadership,Congress,1290,0
+C0431,IT & Digitalisation,Congress,1490,0
+C0431,SAP S/4HANA,Workshop,1100,0
+C0431,Marketing,E-Learning,490,0
+C0431,Leadership,Seminar,299,0
+C0431,Leadership,Workshop,1490,0
+C0432,Finance,Workshop,790,0
+C0433,Leadership,Congress,1290,0
+C0433,IT & Digitalisation,Workshop,1100,0
+C0433,HR Management,E-Learning,790,0
+C0433,Finance,E-Learning,890,1
+C0433,Supply Chain,Seminar,1100,0
+C0433,HR Management,Seminar,650,0
+C0433,SAP S/4HANA,E-Learning,990,0
+C0433,Logistics,Workshop,790,1
+C0434,HR Management,Workshop,650,0
+C0434,Project Management,Workshop,990,0
+C0434,Marketing,Congress,490,0
+C0434,SAP S/4HANA,Seminar,1100,0
+C0434,SAP S/4HANA,Congress,990,0
+C0434,Leadership,Seminar,299,0
+C0434,HR Management,Congress,299,0
+C0434,Logistics,Workshop,299,0
+C0434,Legal & Compliance,E-Learning,650,0
+C0434,Supply Chain,E-Learning,790,0
+C0435,Finance,Seminar,650,0
+C0435,Logistics,Seminar,490,0
+C0435,Logistics,Seminar,490,0
+C0435,Finance,E-Learning,650,1
+C0435,Leadership,Workshop,990,0
+C0435,Marketing,Seminar,1290,0
+C0435,Marketing,Seminar,1290,0
+C0435,Supply Chain,Workshop,1100,0
+C0435,Legal & Compliance,Congress,650,0
+C0435,HR Management,Congress,299,0
+C0435,IT & Digitalisation,E-Learning,1290,0
+C0436,Leadership,Congress,299,0
+C0436,SAP S/4HANA,Congress,790,0
+C0436,Leadership,Congress,299,0
+C0436,Project Management,Congress,490,0
+C0436,Finance,E-Learning,1290,0
+C0436,Leadership,E-Learning,1490,0
+C0436,Legal & Compliance,Workshop,1100,0
+C0436,Supply Chain,E-Learning,650,0
+C0436,Finance,Workshop,490,0
+C0436,Project Management,Congress,1290,0
+C0437,IT & Digitalisation,Seminar,1100,1
+C0437,Supply Chain,E-Learning,990,1
+C0437,Legal & Compliance,Congress,299,0
+C0437,Logistics,Workshop,890,0
+C0437,Marketing,Seminar,490,0
+C0437,IT & Digitalisation,Workshop,650,0
+C0437,Supply Chain,Seminar,790,0
+C0437,IT & Digitalisation,Congress,990,1
+C0438,IT & Digitalisation,Congress,1290,1
+C0438,Supply Chain,Seminar,1100,0
+C0438,Logistics,Congress,1490,0
+C0438,Leadership,E-Learning,490,0
+C0438,Marketing,E-Learning,990,0
+C0438,Supply Chain,Seminar,1290,0
+C0439,Leadership,Seminar,1290,0
+C0439,Logistics,E-Learning,1100,0
+C0439,Logistics,Seminar,890,0
+C0439,Logistics,Seminar,1290,0
+C0440,SAP S/4HANA,Seminar,990,0
+C0440,Leadership,Workshop,490,0
+C0440,Finance,E-Learning,990,0
+C0440,Marketing,Seminar,1490,0
+C0440,Legal & Compliance,Seminar,1100,1
+C0440,Legal & Compliance,Workshop,490,1
+C0440,Logistics,Seminar,299,1
+C0440,HR Management,Seminar,650,0
+C0441,Project Management,Seminar,790,0
+C0441,SAP S/4HANA,Seminar,299,0
+C0441,HR Management,Seminar,299,0
+C0441,Leadership,E-Learning,990,0
+C0442,Logistics,Workshop,490,0
+C0442,IT & Digitalisation,Congress,1100,0
+C0442,Leadership,Congress,1290,0
+C0442,Finance,E-Learning,1290,1
+C0442,Leadership,E-Learning,890,0
+C0442,IT & Digitalisation,Congress,790,1
+C0442,Leadership,Workshop,299,0
+C0442,HR Management,Congress,1290,0
+C0443,IT & Digitalisation,Congress,1490,0
+C0443,Finance,Workshop,650,0
+C0443,Project Management,Congress,990,0
+C0443,Legal & Compliance,Congress,1100,0
+C0443,Leadership,E-Learning,1100,0
+C0444,Project Management,Workshop,490,0
+C0444,Supply Chain,Seminar,1290,0
+C0445,SAP S/4HANA,Workshop,990,1
+C0445,Leadership,Seminar,990,0
+C0445,Supply Chain,Congress,1100,0
+C0445,SAP S/4HANA,E-Learning,299,0
+C0445,Finance,E-Learning,490,0
+C0445,Marketing,Workshop,790,0
+C0445,Supply Chain,Workshop,650,0
+C0446,SAP S/4HANA,Workshop,490,0
+C0446,Supply Chain,Seminar,790,0
+C0446,HR Management,Seminar,890,0
+C0446,Leadership,Seminar,890,0
+C0446,Logistics,Workshop,1100,0
+C0446,Leadership,Congress,890,1
+C0446,Supply Chain,Congress,790,0
+C0446,Finance,E-Learning,299,0
+C0446,Project Management,Workshop,890,0
+C0446,Project Management,E-Learning,490,0
+C0446,Project Management,E-Learning,1290,1
+C0447,IT & Digitalisation,Seminar,650,0
+C0447,Leadership,Congress,299,0
+C0448,Legal & Compliance,Congress,1290,0
+C0448,HR Management,Seminar,890,0
+C0448,SAP S/4HANA,Congress,650,0
+C0448,Leadership,E-Learning,990,0
+C0448,Legal & Compliance,E-Learning,1490,0
+C0449,Legal & Compliance,Seminar,990,1
+C0449,IT & Digitalisation,Workshop,490,0
+C0449,SAP S/4HANA,Seminar,650,0
+C0449,Supply Chain,Congress,990,0
+C0449,HR Management,Congress,1100,0
+C0450,Marketing,Seminar,890,0
+C0450,SAP S/4HANA,Congress,890,0
+C0450,IT & Digitalisation,Workshop,1100,1
+C0450,Finance,Congress,299,0
+C0450,Logistics,Seminar,1100,0
+C0450,Logistics,E-Learning,890,0
+C0450,HR Management,Workshop,650,0
+C0451,Logistics,Congress,890,0
+C0452,HR Management,Workshop,299,0
+C0453,HR Management,Workshop,890,0
+C0453,Marketing,E-Learning,299,0
+C0453,Finance,Congress,990,1
+C0453,SAP S/4HANA,Congress,490,0
+C0453,Project Management,Congress,1100,1
+C0453,Finance,Congress,299,0
+C0453,IT & Digitalisation,Congress,1100,0
+C0453,Marketing,Seminar,890,1
+C0454,Logistics,Workshop,990,0
+C0455,Marketing,Congress,890,0
+C0455,Leadership,E-Learning,1290,0
+C0455,Marketing,Workshop,490,0
+C0455,SAP S/4HANA,Workshop,990,1
+C0455,Legal & Compliance,E-Learning,1100,0
+C0456,HR Management,Seminar,1100,0
+C0456,Project Management,E-Learning,790,0
+C0457,HR Management,Workshop,650,0
+C0457,HR Management,Workshop,1490,0
+C0457,HR Management,Seminar,299,0
+C0459,IT & Digitalisation,Seminar,490,0
+C0459,Supply Chain,Congress,1490,0
+C0459,Project Management,Congress,650,1
+C0459,Finance,Seminar,1290,0
+C0459,Leadership,Seminar,299,0
+C0461,Legal & Compliance,Seminar,1490,0
+C0461,Marketing,Seminar,490,0
+C0461,Marketing,Workshop,650,1
+C0461,SAP S/4HANA,E-Learning,1290,1
+C0461,Marketing,Congress,299,0
+C0461,Project Management,Congress,650,0
+C0461,Legal & Compliance,Workshop,890,0
+C0461,Leadership,Workshop,990,0
+C0461,Marketing,Workshop,490,0
+C0461,Marketing,Workshop,650,0
+C0461,Finance,Workshop,490,0
+C0462,HR Management,Workshop,299,0
+C0462,Project Management,Workshop,1290,0
+C0462,HR Management,Congress,990,0
+C0462,IT & Digitalisation,Workshop,1490,1
+C0463,Logistics,E-Learning,1290,0
+C0463,Finance,E-Learning,1100,0
+C0463,Legal & Compliance,Workshop,1290,0
+C0463,Logistics,E-Learning,650,0
+C0463,Logistics,E-Learning,1100,0
+C0464,Supply Chain,Seminar,490,0
+C0464,Legal & Compliance,E-Learning,790,1
+C0465,Marketing,Seminar,299,0
+C0465,Leadership,Seminar,490,0
+C0465,IT & Digitalisation,Seminar,650,0
+C0465,Leadership,Workshop,1100,0
+C0465,Logistics,Congress,790,0
+C0465,Legal & Compliance,Workshop,890,0
+C0465,Supply Chain,Congress,1100,0
+C0465,Leadership,Seminar,490,0
+C0466,IT & Digitalisation,Workshop,1490,0
+C0466,IT & Digitalisation,Congress,1490,0
+C0466,Supply Chain,Congress,1290,0
+C0467,Leadership,Workshop,1100,0
+C0467,Leadership,Seminar,650,0
+C0467,Leadership,Seminar,1290,0
+C0467,HR Management,E-Learning,299,0
+C0467,Finance,E-Learning,1100,1
+C0467,Leadership,Congress,890,0
+C0467,SAP S/4HANA,Congress,1490,0
+C0469,Finance,Seminar,299,1
+C0469,Marketing,E-Learning,790,1
+C0469,HR Management,Congress,790,0
+C0471,IT & Digitalisation,Seminar,1100,0
+C0471,SAP S/4HANA,Workshop,650,0
+C0471,HR Management,Seminar,299,1
+C0471,SAP S/4HANA,Congress,990,0
+C0471,Legal & Compliance,E-Learning,790,0
+C0472,SAP S/4HANA,Workshop,299,0
+C0472,HR Management,Workshop,1100,1
+C0472,Marketing,Workshop,1490,0
+C0472,Leadership,Workshop,490,0
+C0472,IT & Digitalisation,Congress,990,0
+C0473,Leadership,Seminar,790,0
+C0473,SAP S/4HANA,Seminar,299,0
+C0473,HR Management,Seminar,299,1
+C0473,Legal & Compliance,Congress,890,0
+C0473,IT & Digitalisation,E-Learning,790,0
+C0474,Legal & Compliance,Seminar,490,0
+C0474,Finance,Congress,1290,0
+C0474,Supply Chain,Workshop,890,0
+C0474,SAP S/4HANA,E-Learning,790,0
+C0474,IT & Digitalisation,Seminar,299,0
+C0474,Marketing,Workshop,890,0
+C0474,Supply Chain,Congress,1490,0
+C0474,Finance,Congress,490,0
+C0474,Project Management,Seminar,790,1
+C0474,Legal & Compliance,Seminar,299,0
+C0474,HR Management,E-Learning,890,0
+C0475,Finance,Workshop,1290,0
+C0475,Marketing,Workshop,1290,1
+C0475,Supply Chain,Congress,1100,0
+C0475,Marketing,Seminar,890,0
+C0476,Logistics,E-Learning,890,0
+C0476,HR Management,E-Learning,1100,0
+C0476,HR Management,Seminar,1490,0
+C0476,Finance,Workshop,1100,0
+C0476,Project Management,Workshop,1290,0
+C0476,Project Management,Seminar,890,0
+C0476,Leadership,Congress,1490,0
+C0476,IT & Digitalisation,Workshop,299,0
+C0476,IT & Digitalisation,E-Learning,890,0
+C0477,Finance,Congress,1290,0
+C0477,HR Management,Workshop,299,0
+C0477,HR Management,E-Learning,1290,0
+C0477,Marketing,Seminar,490,0
+C0477,Logistics,E-Learning,490,0
+C0477,Project Management,E-Learning,890,1
+C0477,Legal & Compliance,Congress,790,0
+C0478,Supply Chain,Seminar,299,0
+C0479,HR Management,Congress,299,0
+C0479,Finance,Seminar,990,1
+C0479,Logistics,Congress,990,0
+C0479,Leadership,Workshop,490,0
+C0479,Supply Chain,Congress,990,0
+C0479,Marketing,Seminar,1100,0
+C0479,Project Management,Seminar,990,0
+C0479,IT & Digitalisation,Workshop,990,0
+C0479,Finance,Seminar,650,1
+C0479,HR Management,E-Learning,650,0
+C0479,Leadership,Congress,990,0
+C0480,Project Management,Workshop,490,0
+C0480,Supply Chain,Workshop,1490,0
+C0480,SAP S/4HANA,Seminar,1290,0
+C0480,IT & Digitalisation,E-Learning,790,0
+C0480,Supply Chain,E-Learning,790,0
+C0480,Supply Chain,Workshop,990,0
+C0480,Supply Chain,Workshop,1100,0
+C0480,Leadership,E-Learning,1490,0
+C0480,IT & Digitalisation,Workshop,790,0
+C0480,Marketing,Congress,650,0
+C0480,Marketing,Congress,890,0
+C0481,Leadership,Workshop,1100,0
+C0481,Logistics,Workshop,790,0
+C0481,Legal & Compliance,Seminar,650,0
+C0482,Leadership,Congress,299,0
+C0482,HR Management,Congress,490,0
+C0482,SAP S/4HANA,Workshop,1100,0
+C0482,Project Management,Workshop,1490,0
+C0482,Finance,Seminar,990,0
+C0482,Logistics,Seminar,299,1
+C0482,IT & Digitalisation,Workshop,1100,0
+C0482,Marketing,E-Learning,1290,0
+C0483,Project Management,Seminar,990,0
+C0484,Project Management,E-Learning,490,0
+C0484,Finance,Workshop,990,1
+C0484,Logistics,Workshop,890,1
+C0484,Marketing,E-Learning,650,0
+C0484,HR Management,Congress,1100,0
+C0484,Logistics,E-Learning,490,0
+C0484,Finance,Congress,490,0
+C0484,Finance,Workshop,1290,1
+C0484,Project Management,E-Learning,890,0
+C0485,Leadership,Congress,1490,1
+C0485,HR Management,Seminar,1490,1
+C0485,HR Management,Workshop,299,0
+C0485,Supply Chain,E-Learning,1100,0
+C0485,SAP S/4HANA,Congress,1290,0
+C0485,Leadership,Seminar,1290,0
+C0485,Legal & Compliance,E-Learning,490,0
+C0486,Leadership,Congress,490,1
+C0486,Project Management,E-Learning,890,0
+C0486,SAP S/4HANA,Seminar,990,0
+C0486,Marketing,Seminar,1490,0
+C0486,Supply Chain,Seminar,299,0
+C0487,Supply Chain,Congress,890,0
+C0487,Project Management,Workshop,650,0
+C0487,Finance,Congress,790,0
+C0487,SAP S/4HANA,Congress,299,1
+C0487,Leadership,Workshop,1490,0
+C0487,Project Management,Seminar,1100,1
+C0487,Logistics,Workshop,790,1
+C0487,Legal & Compliance,Congress,890,0
+C0488,Marketing,E-Learning,1490,0
+C0488,Finance,Seminar,790,0
+C0488,Finance,Workshop,1290,0
+C0488,Supply Chain,Workshop,490,0
+C0488,Legal & Compliance,E-Learning,490,0
+C0488,Marketing,Congress,1290,0
+C0488,Logistics,Workshop,790,0
+C0488,Finance,E-Learning,1490,0
+C0488,Marketing,Seminar,1490,0
+C0488,Finance,E-Learning,1100,0
+C0489,Finance,Seminar,890,0
+C0489,Supply Chain,E-Learning,299,0
+C0489,Legal & Compliance,Workshop,790,0
+C0489,SAP S/4HANA,Congress,490,0
+C0489,Project Management,Seminar,299,0
+C0489,Leadership,E-Learning,990,1
+C0489,HR Management,Congress,990,1
+C0489,Project Management,Workshop,790,0
+C0489,Project Management,E-Learning,990,0
+C0489,Supply Chain,Congress,299,0
+C0490,SAP S/4HANA,Workshop,1290,1
+C0490,Project Management,E-Learning,890,0
+C0490,Supply Chain,Congress,299,0
+C0490,Leadership,Workshop,1100,0
+C0490,Finance,Seminar,490,0
+C0490,SAP S/4HANA,Workshop,299,0
+C0490,SAP S/4HANA,Congress,490,0
+C0490,Supply Chain,E-Learning,990,0
+C0490,SAP S/4HANA,Seminar,890,0
+C0490,Legal & Compliance,Congress,490,1
+C0491,Finance,Workshop,490,0
+C0491,Marketing,E-Learning,1290,0
+C0491,SAP S/4HANA,Congress,1100,0
+C0492,SAP S/4HANA,Seminar,1290,0
+C0492,Logistics,Seminar,1100,0
+C0493,Logistics,Seminar,890,0
+C0493,Project Management,Seminar,490,0
+C0493,Supply Chain,Workshop,790,0
+C0493,Project Management,Workshop,1290,0
+C0493,HR Management,Workshop,890,0
+C0493,Finance,E-Learning,650,0
+C0495,SAP S/4HANA,Workshop,1490,0
+C0496,Legal & Compliance,Workshop,1490,0
+C0496,Leadership,Workshop,490,0
+C0496,Project Management,Seminar,650,0
+C0498,Legal & Compliance,Congress,1490,0
+C0498,Project Management,Workshop,1100,0
+C0498,Finance,Seminar,1100,1
+C0498,Finance,E-Learning,990,0
+C0498,Project Management,E-Learning,1490,0
+C0498,Logistics,E-Learning,1490,0
+C0498,Legal & Compliance,Workshop,790,0
+C0498,Project Management,Congress,1490,0
+C0498,HR Management,E-Learning,1100,0
+C0499,HR Management,E-Learning,790,0
+C0499,Leadership,Workshop,990,0
+C0499,HR Management,Workshop,650,0
+C0499,IT & Digitalisation,Congress,990,0
+C0499,Supply Chain,E-Learning,890,0
+C0499,Logistics,E-Learning,990,0
+C0499,Finance,Congress,490,0
+C0499,Leadership,Congress,890,0
+C0500,Project Management,Workshop,990,0
+C0500,Logistics,Workshop,790,0
+C0500,HR Management,Congress,790,0
+C0500,Logistics,Congress,650,0
+C0500,Legal & Compliance,Seminar,990,0
+C0500,HR Management,Congress,1490,0
